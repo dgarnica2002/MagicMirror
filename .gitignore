@@ -16,6 +16,7 @@ vendor/node_modules/**/*
 jspm_modules
 .npm
 .node_repl_history
+.Dockerfile
 
 # Visual Studio Code ignoramuses.
 .vscode/
@@ -67,7 +68,6 @@ Temporary Items
 /css/custom.css
 
 # Ignore users config file but keep the sample.
-/config/*
 !/config/config.js.sample
 
 # Vim
