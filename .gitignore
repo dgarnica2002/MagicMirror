@@ -64,9 +64,6 @@ Temporary Items
 # Ignore users config file but keep the sample.
 !/config/config.js.sample
 
-/modules/MMM-OpenWeatherMapForecast/package-lock.json
-/modules/MMM-BackgroundSlideshow/package-lock.json
-
 # Vim
 ## swap
 [._]*.s[a-w][a-z]
