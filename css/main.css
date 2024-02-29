@@ -1,21 +1,21 @@
 :root {
   --color-text: #999;
-  --color-text-dimmed: #666;
+  --color-text-dimmed: #ffffff;
   --color-text-bright: #fff;
   --color-background: #000;
   --font-primary: "Roboto Condensed";
   --font-secondary: "Roboto";
-  --font-size: 20px;
+  --font-size: 2vw; /* Responsive font size based on viewport width */
   --font-size-xsmall: 0.75rem;
   --font-size-small: 1rem;
   --font-size-medium: 1.5rem;
   --font-size-large: 3.25rem;
   --font-size-xlarge: 3.75rem;
-  --gap-body-top: 60px;
-  --gap-body-right: 60px;
-  --gap-body-bottom: 60px;
-  --gap-body-left: 60px;
-  --gap-modules: 30px;
+  --gap-body-top: 3vw; /* Responsive gap based on viewport width */
+  --gap-body-right: 3vw;
+  --gap-body-bottom: 3vw;
+  --gap-body-left: 3vw;
+  --gap-modules: 1.5vw; /* Responsive gap based on viewport width */
 }
 
 html {

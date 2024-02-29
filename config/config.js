@@ -46,26 +46,15 @@ let config = {
 		},
 		{
 			module: "clock",
-			position: "top_left"
-		},
-		{
-			module: "calendar",
-			header: "US Holidays",
 			position: "top_left",
 			config: {
-				calendars: [
-					{
-						fetchInterval: 7 * 24 * 60 * 60 * 1000,
-						symbol: "calendar-check",
-						url: "https://ics.calendarlabs.com/76/mm3137/US_Holidays.ics"
-					}
-				]
+				timeFormat: 12
 			}
 		},
-		{
-			module: "compliments",
-			position: "lower_third"
-		},
+		// {
+		// 	module: "compliments",
+		// 	position: "lower_third"
+		// },
 		// {
 		// 	module: "weather",
 		// 	position: "top_right",
@@ -97,11 +86,14 @@ let config = {
 			disabled: false,
 			config: {
 				apikey: "ad0dc7086ff6b3cb36c606dc3c698b6f",
-				latitude: "51.506130",
-				longitude: "-0.090270",
+				latitude: "44.89804366950974",
+				longitude: "-123.00792846037919",
+				units: "imperial",
 				iconset: "4c",
-				concise: false,
-				forecastLayout: "table"
+				concise: true,
+				maxHourliesToShow: 3,
+				maxDailiesToShow: 1,
+				forecastLayout: "tiled"
 			}
 		},
 		{
@@ -109,7 +101,7 @@ let config = {
 			position: 'fullscreen_below',
 			config: {
 				imagePaths: ['modules/MMM-BackgroundSlideshow/exampleImages/'],
-				transitionImages: true,
+				transitionImages: false,
 				randomizeImageOrder: true
 			}
 		},
