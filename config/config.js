@@ -97,10 +97,10 @@ let config = {
 			}
 		},
 		{
-			module: 'MMM-BackgroundSlideshow',
-			position: 'fullscreen_below',
+			module: "MMM-BackgroundSlideshow",
+			position: "fullscreen_below",
 			config: {
-				imagePaths: ['modules/MMM-BackgroundSlideshow/exampleImages/'],
+				imagePaths: ["modules/MMM-BackgroundSlideshow/exampleImages/"],
 				transitionImages: false,
 				randomizeImageOrder: true
 			}
@@ -119,6 +119,14 @@ let config = {
 				showPublishDate: true,
 				broadcastNewsFeeds: true,
 				broadcastNewsUpdates: true,
+			}
+		},
+		{
+			module: "MMM-EyeCandy",
+			position: "middle_center",
+			config: {
+				maxWidth: "35%",       // Sizes the images. Retains aspect ratio.
+				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
 			}
 		},
 	]
