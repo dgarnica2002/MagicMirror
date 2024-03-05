@@ -1,4 +1,4 @@
-Module.register("MMM-TomTomTrafficIncidents",{
+Module.register("MMM-TrafficMap",{
 
 	defaults: {
 		requiresVersion: "2.8.0",  //Developped and tested with this version.
@@ -45,6 +45,7 @@ Module.register("MMM-TomTomTrafficIncidents",{
 		wrapper.setAttribute("class", "map");
 		wrapper.style.height = this.config.height;
 		wrapper.style.width = this.config.width;
+		wrapper.style.borderRadius = "3vw";
 		
 		let script = document.createElement("script"); //Getscripts is not working in this module.
 		script.type = "text/javascript";
