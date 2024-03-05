@@ -1,10 +1,10 @@
 /* Magic Mirror
- * Module: MMM-EyeCandy
+ * Module: MMM-Logo
  *
  * By Mykle1
  * MIT Licensed.
  */
-Module.register("MMM-EyeCandy", {
+Module.register("MMM-Logo", {
     // Default module config.
     defaults: {
         style: '1', // 1-52
@@ -156,9 +156,9 @@ Module.register("MMM-EyeCandy", {
     /////  Add this function to the modules you want to control with voice //////
 
     notificationReceived: function(notification, payload) {
-        if (notification === 'HIDE_EYECANDY') {
+        if (notification === 'HIDE_LOGO') {
             this.hide();
-        } else if (notification === 'SHOW_EYECANDY') {
+        } else if (notification === 'SHOW_LOGO') {
             this.show(1000);
         }
 
