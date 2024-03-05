@@ -58,9 +58,6 @@ Temporary Items
 .directory
 .Trash-*
 
-# Ignore changes to the custom css files.
-/css/custom.css
-
 # Ignore users config file but keep the sample.
 !/config/config.js.sample
 

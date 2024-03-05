@@ -130,6 +130,20 @@ let config = {
 			}
 		},
 		{
+			module: "MMM-TrafficMap",
+			position: "bottom_left",
+			config: {
+				key: "RKbAY32rYRyxC132GpDdmhWou2r9zjE8",
+				lng: -123.0196286,
+				lat: 44.9000444,
+				zoom: 12,
+				traffic: "relative-delay",
+				showMarker: true,
+				height: "40vh",
+				width: "28vw"
+			}
+		},
+		{
 			module: 'MMM-Remote-Control',
 			// uncomment the following line to show the URL of the remote control on the mirror
 			// position: 'bottom_left',
