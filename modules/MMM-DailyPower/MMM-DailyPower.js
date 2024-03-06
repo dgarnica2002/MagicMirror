@@ -32,6 +32,8 @@ Module.register('MMM-DailyPower', {
         const wrapper = document.createElement('div');
         wrapper.style.width = this.config.width;
         wrapper.style.margin = this.config.margin;
+        wrapper.style.inlineSize = "25vw";
+        wrapper.style.overflowWrap = 'break-word';
         if (this.verse) {
             if (this.config.showImage) {
                 wrapper.appendChild(this.createVerseImage());
@@ -56,6 +58,7 @@ Module.register('MMM-DailyPower', {
 
     createVerseCard: function() {
         const card = document.createElement('div');
+        card.className = "daily-power-card";
         card.appendChild(this.createVerseContent());
         card.appendChild(this.createVerseReference());
         return card;

@@ -14,7 +14,7 @@
   --color-text: #ffffff;
   --color-text-dimmed: #ffffff;
   --color-text-bright: #fff;
-  --color-background: rgba(58, 55, 55, 0.575);
+  --color-background: rgba(0, 0, 0, 0.575);
 
   --font-primary: "Roboto Condensed";
   --font-secondary: "Roboto";
@@ -35,7 +35,15 @@
   --gap-modules: 2vw;
 }
 
+.MMM-BackgroundSlideshow .gradient {
+  background-color:rgba(31, 31, 31, 0.267);
+}
 
+.daily-power-verse-reference {
+  font-weight: normal;
+}
+
+.daily-power-card,
 .MMM-OpenWeatherMapForecast {
   background-color:rgba(58, 55, 55, 0.267);
   padding: 2vw;

@@ -51,33 +51,6 @@ let config = {
 				timeFormat: 12
 			}
 		},
-		// {
-		// 	module: "compliments",
-		// 	position: "lower_third"
-		// },
-		// {
-		// 	module: "weather",
-		// 	position: "top_right",
-		// 	config: {
-		// 		weatherProvider: "openweathermap",
-		// 		type: "current",
-		// 		location: "New York",
-		// 		locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-		// 		apiKey: "YOUR_OPENWEATHER_API_KEY"
-		// 	}
-		// },
-		// {
-		// 	module: "weather",
-		// 	position: "top_right",
-		// 	header: "Weather Forecast",
-		// 	config: {
-		// 		weatherProvider: "openweathermap",
-		// 		type: "forecast",
-		// 		location: "New York",
-		// 		locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-		// 		apiKey: "YOUR_OPENWEATHER_API_KEY"
-		// 	}
-		// },
 		{
 			module: "MMM-OpenWeatherMapForecast",
 			header: "Weather",
@@ -121,12 +94,23 @@ let config = {
 				broadcastNewsUpdates: true,
 			}
 		},
+		// {
+		// 	module: "MMM-Logo",
+		// 	position: "middle_center",
+		// 	config: {
+		// 		maxWidth: "35%",       // Sizes the images. Retains aspect ratio.
+		// 		ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
+		// 	}
+		// },
 		{
-			module: "MMM-Logo",
-			position: "middle_center",
+			module: "MMM-DailyPower",
+			position: "middle_center",       // This can be any region
 			config: {
-				maxWidth: "35%",       // Sizes the images. Retains aspect ratio.
-				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
+				// See 'Configuration options' for more information.
+				translation: "akjv",
+				showImage: false,
+				verseColor: "#fff",
+				verseSize: "2vw"
 			}
 		},
 		{
