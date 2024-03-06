@@ -273,7 +273,7 @@ Module.register("MMM-Page-Selector", {
 	//if the payload is an integer, the index of the page is selected
 	notificationReceived: function(notification, payload, sender) {
 		const self = this;
-
+		console.log("notification: " + notification)
 		function selectPage(page){
 			const payloadToNum = WtoN.convert(page);
 			self.changePage(isNaN(payloadToNum) ? page : payloadToNum)

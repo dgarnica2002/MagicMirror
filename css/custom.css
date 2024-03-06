@@ -19,7 +19,7 @@
   --font-primary: "Roboto Condensed";
   --font-secondary: "Roboto";
   
-  --font-size: 1.5vw;
+  --font-size: 1.3vw;
   --font-size-small: 0.75rem;
   --font-size-xsmall: 0.75rem;
   --font-size-xmedium: 1;
@@ -29,7 +29,7 @@
 
   --gap-body-top: 3vw;
   --gap-body-right: 3vw;
-  --gap-body-bottom: 3vw;
+  --gap-body-bottom: 2vw;
   --gap-body-left: 3vw;
   
   --gap-modules: 2vw;
@@ -43,7 +43,13 @@
   font-weight: normal;
 }
 
-.daily-power-card,
+.daily-power-card {
+  background-color:rgba(58, 55, 55, 0.267);
+  padding: 2vw;
+  border-radius: 50% 20% / 10% 40%;
+}
+
+
 .MMM-OpenWeatherMapForecast {
   background-color:rgba(58, 55, 55, 0.267);
   padding: 2vw;

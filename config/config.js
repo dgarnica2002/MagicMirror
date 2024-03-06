@@ -94,23 +94,23 @@ let config = {
 				broadcastNewsUpdates: true,
 			}
 		},
-		// {
-		// 	module: "MMM-Logo",
-		// 	position: "middle_center",
-		// 	config: {
-		// 		maxWidth: "35%",       // Sizes the images. Retains aspect ratio.
-		// 		ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
-		// 	}
-		// },
+		{
+			module: "MMM-Logo",
+			position: "upper_third",
+			config: {
+				maxWidth: "28%",       // Sizes the images. Retains aspect ratio.
+				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
+			}
+		},
 		{
 			module: "MMM-DailyPower",
-			position: "middle_center",       // This can be any region
+			position: "lower_third",       // This can be any region
 			config: {
 				// See 'Configuration options' for more information.
 				translation: "akjv",
 				showImage: false,
 				verseColor: "#fff",
-				verseSize: "2vw"
+				verseSize: "1.5vw"
 			}
 		},
 		{
@@ -142,7 +142,35 @@ let config = {
 				// classes: {} // Optional, See "Custom Classes" below
 			}
 		},
-	]
+		// {
+		// 	module: "MMM-Page-Selector",
+		// 	position: "top_center",
+		// 	config: {
+		// 		defaultPage: "main",
+		// 		displayTitle: false,
+		// 		selectPageNotif: ["SELECT_PAGE"],
+		// 		incrementPageNotif: ["PAGE_UP"],
+		// 		decrementPageNotif: ["PAGE_DOWN"],
+		// 		persistentPages: true,
+		// 		autoChange: {
+		// 			interval: 60
+		// 		}
+		// 	}
+		// },
+	],
+	// pages: {
+	// 	main: {
+	// 		"MMM-Logo": "middle_center"
+	// 	}
+	// },
+	// exclusions: {
+	// 	"clock": "top_left",
+	// 	"MMM-OpenWeatherMapForecast": "top_right",
+	// 	"MMM-BackgroundSlideshow": "fullscreen_below",
+	// 	"newsfeed": "bottom_bar",
+	// 	"MMM-TrafficMap": "bottom_left",
+	// 	"MMM-DailyPower": "lower_third"
+	// }
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
