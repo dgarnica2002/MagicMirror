@@ -48,7 +48,8 @@ let config = {
 			module: "clock",
 			position: "top_left",
 			config: {
-				timeFormat: 12
+				timeFormat: 12,
+				dateFormat: "dddd, MMMM Do"
 			}
 		},
 		{
@@ -65,7 +66,7 @@ let config = {
 				iconset: "4c",
 				concise: true,
 				maxHourliesToShow: 3,
-				maxDailiesToShow: 1,
+				maxDailiesToShow: 3,
 				forecastLayout: "tiled"
 			}
 		},
@@ -98,7 +99,7 @@ let config = {
 			module: "MMM-Logo",
 			position: "upper_third",
 			config: {
-				maxWidth: "28%",       // Sizes the images. Retains aspect ratio.
+				maxWidth: "17%",       // Sizes the images. Retains aspect ratio.
 				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
 			}
 		},
@@ -120,6 +121,8 @@ let config = {
 				key: "RKbAY32rYRyxC132GpDdmhWou2r9zjE8",
 				lng: -123.0196286,
 				lat: 44.9000444,
+				mlng: -123.0196286,
+				mlat: 44.9000444,
 				zoom: 12,
 				traffic: "relative-delay",
 				showMarker: true,

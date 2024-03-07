@@ -24,7 +24,7 @@
   --font-size-xsmall: 0.75rem;
   --font-size-xmedium: 1;
   --font-size-medium: 1.5rem;
-  --font-size-large: 3.25rem;
+  --font-size-large: 3.1rem;
   --font-size-xlarge: 3.75rem;
 
   --gap-body-top: 3vw;
@@ -43,16 +43,12 @@
   font-weight: normal;
 }
 
-.daily-power-card {
-  background-color:rgba(58, 55, 55, 0.267);
-  padding: 2vw;
-  border-radius: 50% 20% / 10% 40%;
-}
 
-
+.digital,
+.daily-power-card,
 .MMM-OpenWeatherMapForecast {
-  background-color:rgba(58, 55, 55, 0.267);
-  padding: 2vw;
+  background-color:rgba(36, 36, 36, 0.9);
+  padding: 1.5vw;
   border-radius: 2vw;
 }
 

@@ -5839,6 +5839,13 @@
   },
   {
     "longname": "MMM-Globe",
+    "id": "Eunanibus/MMM-Globe",
+    "url": "https://github.com/Eunanibus/MMM-Globe",
+    "author": "Eunanibus",
+    "desc": "Displays a rotating globe constructed of Hexadecimal shapes specifically formatted to look great on a MagicMirror."
+  },
+  {
+    "longname": "MMM-Globe",
     "id": "LukeSkywalker92/MMM-Globe",
     "url": "https://github.com/LukeSkywalker92/MMM-Globe",
     "author": "LukeSkywalker92",
@@ -6165,6 +6172,13 @@
     "url": "https://github.com/x3mEr/MMM-MP3Player",
     "author": "x3mEr",
     "desc": "Play music from folder. It's a remade asimhsidd's MMM-MP3Player module."
+  },
+  {
+    "longname": "MMM-MealieMenu",
+    "id": "zanix/MMM-MealieMenu",
+    "url": "https://github.com/zanix/MMM-MealieMenu",
+    "author": "zanix",
+    "desc": "Displays a weekly meal menu from the [Mealie](https://mealie.io) recipe management app."
   },
   {
     "longname": "MMM-Meniny",
