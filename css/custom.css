@@ -43,7 +43,10 @@
   font-weight: normal;
 }
 
+.daily-power-card {
+  margin-top: 20vh;
 
+}
 .digital,
 .daily-power-card,
 .MMM-OpenWeatherMapForecast {
@@ -56,8 +59,12 @@
   font-size: 2vw;
 }
 
-.MMM-Logo {
+/* .MMM-Logo {
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
   filter: drop-shadow(2px 2px 2px #cccccc);
 	margin-top: 10px;
+} */
+
+.MMM-Logo {
+  filter: drop-shadow(0 0 0.75rem rgb(180, 20, 220));
 }
