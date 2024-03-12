@@ -11,8 +11,8 @@ module.exports = NodeHelper.create({
 
     getDailyPowerVerse: function (translation) {
         const date = this.createCurrentDate();
-        const dailyPowerVerseApi = `https://dailypower.oemel09.de/api/v1/verses/${date}?lang=${translation}`;
-
+		var dailyPowerVerseApi = `https://www.biblegateway.com/votd/get/?format=json&version=${translation}`;
+        
         https.get(dailyPowerVerseApi, (response) => {
             let data = '';
             response.on('data', (chunk) => {
@@ -20,7 +20,7 @@ module.exports = NodeHelper.create({
             });
             response.on('end', () => {
                 console.log('DailyPower', 'new verse received');
-                this.sendSocketNotification('DAILY_POWER_ON_VERSE_RECEIVED', JSON.parse(data));
+                this.sendSocketNotification('DAILY_POWER_ON_VERSE_RECEIVED', JSON.parse(data).votd);
             });
         }).on('error', (error) => {
             console.log("Error: " + error.message);

@@ -108,7 +108,7 @@ let config = {
 			position: "lower_third",       // This can be any region
 			config: {
 				// See 'Configuration options' for more information.
-				translation: "akjv",
+				translation: "HCSB",
 				showImage: false,
 				verseColor: "#fff",
 				verseSize: "1.5vw"

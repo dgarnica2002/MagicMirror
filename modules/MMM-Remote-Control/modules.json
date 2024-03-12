@@ -1162,13 +1162,6 @@
     "desc": "Display departures for public transport in Helsinki region - Finland."
   },
   {
-    "longname": "publika",
-    "id": "alonsourbano/publika",
-    "url": "https://github.com/alonsourbano/publika",
-    "author": "Alonso Urbano",
-    "desc": "Display local transport for different regions of Finland (Helsinki, Hämeenlinna, Joensuu, Jyväskylä, Kajaani, Kotka, Kouvola, Kuopio, Lahti, Lappeenranta, Mikkeli, Tampere, Oulu, Rovaniemi, Turku, Vaasa)"
-  },
-  {
     "longname": "MMM-idos",
     "id": "soyrubio/MMM-idos",
     "url": "https://github.com/soyrubio/MMM-idos",
@@ -1902,13 +1895,6 @@
     "url": "https://github.com/shbatm/MMM-AlexaOnOff",
     "author": "shbatm",
     "desc": "Simple Mirror Control from External Home Assistant (Alexa/Google Home/HASS.io)."
-  },
-  {
-    "longname": "MMM-awesome-alexa",
-    "id": "dolanmiu/MMM-awesome-alexa",
-    "url": "https://github.com/dolanmiu/MMM-awesome-alexa",
-    "author": "dolanmiu",
-    "desc": "Easy, hands free Amazon Alexa integration; activated, simply by saying \"Alexa\"."
   },
   {
     "longname": "MMM-GoogleAssistant",
@@ -3925,6 +3911,13 @@
     "url": "https://github.com/shbatm/MMM-KeyBindings",
     "author": "shbatm",
     "desc": "A module for getting bluetooth remote control and keyboard inputs."
+  },
+  {
+    "longname": "MMM-Keyboard",
+    "id": "lavolp3/MMM-Keyboard",
+    "url": "https://github.com/lavolp3/MMM-Keyboard",
+    "author": "lavolp3",
+    "desc": "Creates a virtual keyboard to be used to send commands or text to other modules."
   },
   {
     "longname": "MMM-Keypress",
@@ -7301,6 +7294,13 @@
     "desc": "Another Trivia Module? Really?  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
+    "longname": "MMM-awesome-alexa",
+    "id": "dolanmiu/MMM-awesome-alexa",
+    "url": "https://github.com/dolanmiu/MMM-awesome-alexa",
+    "author": "dolanmiu",
+    "desc": "Easy, hands free Amazon Alexa integration; activated, simply by saying \"Alexa\".  Abandoned. No reactions to issues since years. The documentation currently available does not work any more ([#3398](https://github.com/MagicMirrorOrg/MagicMirror/issues/3398)). |"
+  },
+  {
     "longname": "MMM-BMI",
     "id": "mykle1/MMM-BMI",
     "url": "https://github.com/mykle1/MMM-BMI",
@@ -7775,6 +7775,13 @@
     "url": "https://github.com/mykle1/MMM-PLOW",
     "author": "Mykle1",
     "desc": "Pig Latin On Weather! Multiple views in a single module. Driven by Darksky API.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+  },
+  {
+    "longname": "publika",
+    "id": "alonsourbano/publika",
+    "url": "https://github.com/alonsourbano/publika",
+    "author": "Alonso Urbano",
+    "desc": "Display local transport for different regions of Finland (Helsinki, Hämeenlinna, Joensuu, Jyväskylä, Kajaani, Kotka, Kouvola, Kuopio, Lahti, Lappeenranta, Mikkeli, Tampere, Oulu, Rovaniemi, Turku, Vaasa) Abandoned. No reactions to issues since years. Missing instructions to install dependency 'node-fetch'. API not working without API key anymore. |"
   },
   {
     "longname": "MMM-Pull",

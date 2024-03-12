@@ -84,7 +84,7 @@ Module.register('MMM-DailyPower', {
 
     socketNotificationReceived: function(notification, payload) {
         if (notification === 'DAILY_POWER_ON_VERSE_RECEIVED') {
-            this.verse = payload[0];
+            this.verse = payload;
             this.updateDom();
         }
     }
