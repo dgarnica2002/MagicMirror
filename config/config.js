@@ -99,8 +99,8 @@ let config = {
 			module: "MMM-Logo",
 			position: "upper_third",
 			config: {
-				maxWidth: "23%",       // Sizes the images. Retains aspect ratio.
-				ownImagePath: "/modules/menu.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
+				maxWidth: "18%",       // Sizes the images. Retains aspect ratio.
+				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
 			}
 		},
 		{
