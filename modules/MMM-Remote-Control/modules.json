@@ -1400,13 +1400,6 @@
     "desc": "Shows ETA for buses for a given stop using OneBusAway API."
   },
   {
-    "longname": "MMM-OpelStatuses",
-    "id": "santanachia/MMM-OpelStatuses",
-    "url": "https://github.com/santanachia/MMM-OpelStatuses",
-    "author": "Santanachia",
-    "desc": "Shows current production status of your Opel/Vauxhall."
-  },
-  {
     "longname": "MMM-OsloCityBike",
     "id": "TobbenTM/MMM-OsloCityBike",
     "url": "https://github.com/TobbenTM/MMM-OsloCityBike",
@@ -1901,7 +1894,7 @@
     "id": "bugsounet/MMM-GoogleAssistant",
     "url": "https://github.com/bugsounet/MMM-GoogleAssistant",
     "author": "bugsounet",
-    "desc": "MMM-GoogleAssistant is an real embedded Google assistant on MagicMirror² with many [plugins](#extended-plugins-for-mmm-googleassistant) . [Maintained]."
+    "desc": "MMM-GoogleAssistant is an real embedded Google assistant on MagicMirror² with many [plugins](#extended-plugins-for-mmm-googleassistant). [Maintained]."
   },
   {
     "longname": "MMM-GoogleTTS",
@@ -2504,13 +2497,6 @@
     "url": "https://github.com/sisimomo/MMM-NestRemoteThermostat",
     "author": "sisimomo",
     "desc": "Display a Nest Like thermostat from a remote sensor that is capable to POST values through HTTP protocol. It is designed to be generic. Useful when having Home Assistant and MagicMirror²."
-  },
-  {
-    "longname": "MMM-SmokedMirror",
-    "id": "Santanachia/MMM-SmokedMirror",
-    "url": "https://github.com/Santanachia/MMM-SmokedMirror",
-    "author": "Santanachia",
-    "desc": "Air pollution in Polish cities."
   },
   {
     "longname": "MMM-SwissLakeTemperature",
@@ -5114,7 +5100,7 @@
     "id": "evanhsu/MMM-TitanSchoolMealMenu",
     "url": "https://github.com/evanhsu/MMM-TitanSchoolMealMenu",
     "author": "evanhsu",
-    "desc": "Retrieves school meal menus from the Titan Schools API (family.titank12.com)."
+    "desc": "Retrieves school meal menus from the LinqConnect (formerly Titan Schools) API (api.linqconnect.com)."
   },
   {
     "longname": "MMM-Todoist",

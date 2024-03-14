@@ -45,6 +45,12 @@ Module.register('MMM-DailyPower', {
         return wrapper;
     },
 
+    truncateAtLastSpace: function(str, length, ending = '...') {
+        if (str.length <= length) return str;
+        let trimmedString = str.slice(0, length + 1);
+        return trimmedString.slice(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(' '))) + ending;
+    },
+
     createVerseImage: function() {
         const imageUrl = this.verse.image;
         let image = document.createElement('img');
@@ -69,7 +75,7 @@ Module.register('MMM-DailyPower', {
         content.classList.add('daily-power-p', 'daily-power-verse-content');
         content.style.color = this.config.verseColor;
         content.style.fontSize = this.config.verseSize;
-        content.innerHTML = this.verse.content;
+        content.innerHTML = this.truncateAtLastSpace(this.verse.content, 210)
         return content;
     },
 
