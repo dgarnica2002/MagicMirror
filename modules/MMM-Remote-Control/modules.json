@@ -32,7 +32,7 @@
     "id": "werthdavid/MMM-BurnIn",
     "url": "https://github.com/werthdavid/MMM-BurnIn",
     "author": "werthdavid",
-    "desc": "A module that flickers the whole screen to prevent a burn-in effect on your display."
+    "desc": "Flicker the whole screen to prevent a burn-in effect on your display."
   },
   {
     "longname": "MMM-Button",
@@ -144,14 +144,14 @@
     "id": "ulrichwisser/MMM-HTMLSnippet",
     "url": "https://github.com/ulrichwisser/MMM-HTMLSnippet",
     "author": "ulrichwisser",
-    "desc": "Module to include arbitrary HTML snippets in an iframe (script tags work)."
+    "desc": "Include arbitrary HTML snippets in an iframe (script tags work)."
   },
   {
     "longname": "MMM-JokeAPI",
     "id": "Kreshnik/MMM-JokeAPI",
     "url": "https://github.com/Kreshnik/MMM-JokeAPI",
     "author": "Kreshnik",
-    "desc": "Module that shows jokes from the JokeAPI."
+    "desc": "Show jokes from the JokeAPI."
   },
   {
     "longname": "MMM-LogExt",
@@ -166,6 +166,13 @@
     "url": "https://github.com/shbatm/MMM-Logging",
     "author": "shbatm",
     "desc": "More details and customization for MM's Node.js console logs."
+  },
+  {
+    "longname": "MMM-MagicMover",
+    "id": "Lavve/MMM-MagicMover",
+    "url": "https://github.com/Lavve/MMM-MagicMover",
+    "author": "Lavve",
+    "desc": "Prevent screen burn-in on your MagicMirror²."
   },
   {
     "longname": "MMM-Markdown",
@@ -235,7 +242,7 @@
     "id": "edward-shen/MMM-pages",
     "url": "https://github.com/edward-shen/MMM-pages",
     "author": "edward-shen",
-    "desc": "A module that allows you to rotate out pages of modules."
+    "desc": "Rotate out pages of modules."
   },
   {
     "longname": "MMM-Pages-Screencast",
@@ -256,7 +263,7 @@
     "id": "zerosamski/MMM-Page-Pusher",
     "url": "https://github.com/zerosamski/MMM-Page-Pusher",
     "author": "zerosamski",
-    "desc": "A module that uses 2 HCSR04 sensors to enable switching between pages by making a push gesture."
+    "desc": "Use 2 HCSR04 sensors to enable switching between pages by making a push gesture."
   },
   {
     "longname": "MMM-Page-Selector",
@@ -264,6 +271,13 @@
     "url": "https://github.com/Veldrovive/MMM-Page-Selector",
     "author": "Veldrovive",
     "desc": "Configure location and visibity of modules on defined pages."
+  },
+  {
+    "longname": "MMM-PersonalConfig-Template",
+    "id": "CFenner/MMM-PersonalConfig-Template",
+    "url": "https://github.com/CFenner/MMM-PersonalConfig-Template",
+    "author": "CFenner",
+    "desc": "Module to version your personal config in a separate repository."
   },
   {
     "longname": "MMM-PhoneDetect",
@@ -287,18 +301,25 @@
     "desc": "Indicator module for MMM-ProfileSwitcher."
   },
   {
+    "longname": "MMM-ProxyImage",
+    "id": "daxiang28/MMM-ProxyImage",
+    "url": "https://github.com/daxiang28/MMM-ProxyImage",
+    "author": "daxiang28",
+    "desc": "Display basic auth images through a simple Express proxy."
+  },
+  {
     "longname": "MMM-RaiderIO",
     "id": "jwcnewton/MMM-RaiderIO",
     "url": "https://github.com/jwcnewton/MMM-RaiderIO",
     "author": "jwcnewton",
-    "desc": "Module that displays Raider IO score for multiple characters over any realms or regions."
+    "desc": "Display Raider IO score for multiple characters over any realms or regions."
   },
   {
     "longname": "MMM-RelativeTime-i18n",
     "id": "buxxi/MMM-RelativeTime-i18n",
     "url": "https://github.com/buxxi/MMM-RelativeTime-i18n",
     "author": "buxxi",
-    "desc": "Module that makes it possible to customize all the relative times in the default module (and others) that depend on moment.js"
+    "desc": "Customize all the relative times in the default module (and others) that depend on moment.js"
   },
   {
     "longname": "MMM-Remote-Control-Repository",
@@ -326,7 +347,7 @@
     "id": "MMRIZE/MMM-Scenes2",
     "url": "https://github.com/MMRIZE/MMM-Scenes2",
     "author": "MMRIZE",
-    "desc": "Module to change screen scenes by time and order with ANIMATION EFFECT. Successor of MMM-Scenes since MM 2.25 (AnimateCSS is introduced)."
+    "desc": "Change screen scenes by time and order with animation effect. Successor of MMM-Scenes since MM 2.25 (AnimateCSS is introduced)."
   },
   {
     "longname": "MMM-SendNotificationButton",
@@ -357,27 +378,6 @@
     "desc": "Display a list of notifications that have been broadcast to all the modules."
   },
   {
-    "longname": "MMM-MagicMover",
-    "id": "Lavve/MMM-MagicMover",
-    "url": "https://github.com/Lavve/MMM-MagicMover",
-    "author": "Lavve",
-    "desc": "Prevent screen burn-in on your MagicMirror²."
-  },
-  {
-    "longname": "MMM-ProxyImage",
-    "id": "daxiang28/MMM-ProxyImage",
-    "url": "https://github.com/daxiang28/MMM-ProxyImage",
-    "author": "daxiang28",
-    "desc": "Display basic auth images through a simple Express proxy."
-  },
-  {
-    "longname": "MMM-PersonalConfig-Template",
-    "id": "CFenner/MMM-PersonalConfig-Template",
-    "url": "https://github.com/CFenner/MMM-PersonalConfig-Template",
-    "author": "CFenner",
-    "desc": "Module to version your personal config in a separate repository."
-  },
-  {
     "longname": "MMM-AVStock",
     "id": "lavolp3/MMM-AVStock",
     "url": "https://github.com/lavolp3/MMM-AVStock",
@@ -399,11 +399,11 @@
     "desc": "Display bitcoin ticket price + worth of your own wallet/portfolio."
   },
   {
-    "longname": "MMM-NFTcollections",
-    "id": "TemianMihai/MMM-NFTcollections",
-    "url": "https://github.com/TemianMihai/MMM-NFTcollections",
-    "author": "TemianMihai",
-    "desc": "Display details about a NFT collection."
+    "longname": "MMM-Binance",
+    "id": "brssaricicek/MMM-Binance",
+    "url": "https://github.com/brssaricicek/MMM-Binance",
+    "author": "brssaricicek",
+    "desc": "Display cryptocurrency information from the Binance website."
   },
   {
     "longname": "MMM-bunq",
@@ -455,6 +455,13 @@
     "desc": "Displays Ethereum miner rig statistics for miners on the ethermine.org mining pool."
   },
   {
+    "longname": "MMM-EUElectricityPrice",
+    "id": "late4marshmellow/MMM-EUElectricityPrice",
+    "url": "https://github.com/late4marshmellow/MMM-EUElectricityPrice",
+    "author": "late4marshmellow",
+    "desc": "Display EU electricity prices from Nord Pool."
+  },
+  {
     "longname": "MMM-FearAndGreedIndex",
     "id": "Pip1405/MMM-FearAndGreedIndex",
     "url": "https://github.com/Pip1405/MMM-FearAndGreedIndex",
@@ -462,11 +469,18 @@
     "desc": "Displays color-coded Fear & Greed Index Values from CNBC for Stocks and from Alternative.me for Crypto."
   },
   {
+    "longname": "MMM-FiElectricityPrice",
+    "id": "jannekalliola/MMM-FiElectricityPrice",
+    "url": "https://github.com/jannekalliola/MMM-FiElectricityPrice",
+    "author": "jannekalliola",
+    "desc": "Display Finnish electricity prices from Nord Pool."
+  },
+  {
     "longname": "mmm-helium-wallet",
     "id": "hayseedbyte/mmm-helium-wallet",
     "url": "https://github.com/hayseedbyte/mmm-helium-wallet",
     "author": "hayseedbyte",
-    "desc": "Display your helium wallet balance and value (in your chosen currency) on your mirror."
+    "desc": "Display your helium wallet balance and value (in your chosen currency)."
   },
   {
     "longname": "MMM-Jast",
@@ -474,6 +488,13 @@
     "url": "https://github.com/jalibu/MMM-Jast",
     "author": "Jalibu",
     "desc": "A simple but powerful vertical, horizontal or static stock ticker based on Yahoo's finance API. Supports international stocks, crypto currencies and index symbols. No API key required."
+  },
+  {
+    "longname": "MMM-NFTcollections",
+    "id": "TemianMihai/MMM-NFTcollections",
+    "url": "https://github.com/TemianMihai/MMM-NFTcollections",
+    "author": "TemianMihai",
+    "desc": "Display details about a NFT collection."
   },
   {
     "longname": "MMM-Nordic-Electrical-Spot-Prices",
@@ -495,6 +516,13 @@
     "url": "https://github.com/Daniel1145/MMM-Questrade",
     "author": "Daniel1145",
     "desc": "Displays your Questrade positions."
+  },
+  {
+    "longname": "MMM-Sbanken",
+    "id": "reidarw/MMM-Sbanken",
+    "url": "https://github.com/reidarw/MMM-Sbanken",
+    "author": "reidarw",
+    "desc": "Displaying transactions and account balance from Sbanken (Norway)."
   },
   {
     "longname": "MMM-SingleStock",
@@ -532,25 +560,18 @@
     "desc": "Displays categories of your choosing from your YNAB budget."
   },
   {
-    "longname": "MMM-Sbanken",
-    "id": "reidarw/MMM-Sbanken",
-    "url": "https://github.com/reidarw/MMM-Sbanken",
-    "author": "reidarw",
-    "desc": "Displaying transactions and account balance from Sbanken (Norway)."
-  },
-  {
-    "longname": "MMM-Binance",
-    "id": "brssaricicek/MMM-Binance",
-    "url": "https://github.com/brssaricicek/MMM-Binance",
-    "author": "brssaricicek",
-    "desc": "Display cryptocurrency information from the Binance website."
-  },
-  {
     "longname": "MMM-air-raid-monitor-ua",
     "id": "PavlenkoM/MMM-air-raid-monitor-ua",
     "url": "https://github.com/PavlenkoM/MMM-air-raid-monitor-ua",
     "author": "PavlenkoM",
     "desc": "This module shows the current status of air raid sirens in Ukraine."
+  },
+  {
+    "longname": "MMM-anotherNewsFeed",
+    "id": "MMRIZE/MMM-anotherNewsFeed",
+    "url": "https://github.com/MMRIZE/MMM-anotherNewsFeed",
+    "author": "MMRIZE",
+    "desc": "Modified version of the default newsfeed module."
   },
   {
     "longname": "MMM-CalendarTodayTomorrow",
@@ -564,14 +585,14 @@
     "id": "boghammar/MMM-CrisisInformationSweden",
     "url": "https://github.com/boghammar/MMM-CrisisInformationSweden",
     "author": "boghammar",
-    "desc": "News feed from the **Swedish** Government Crisis Information (Krisinformation.se)."
+    "desc": "News feed from the **Swedish** Government Crisis Information (krisinformation.se)."
   },
   {
     "longname": "MMM-CyberSecurityNews",
     "id": "gueguet/MMM-CyberSecurityNews",
     "url": "https://github.com/gueguet/MMM-CyberSecurityNews",
     "author": "gueguet",
-    "desc": "This module allows you to display the last news about CyberSecurity."
+    "desc": "This module allows you to display the last news about Cyber Security."
   },
   {
     "longname": "MMM-EarthquakeMonitor",
@@ -606,7 +627,7 @@
     "id": "ItsMeBrille/MMM-FlagRise",
     "url": "https://github.com/ItsMeBrille/MMM-FlagRise",
     "author": "ItsMeBrille",
-    "desc": "A module to raise an image of a flag according to national flag rules. (Norwegian rules) Fetches sunrise and sunset times using [Steder-API](https://steder-api.no)."
+    "desc": "Raise an image of a flag according to national flag rules (Norwegian rules). Fetches sunrise and sunset times using [Steder-API](https://steder-api.no)."
   },
   {
     "longname": "MMM-Flatastic",
@@ -620,7 +641,7 @@
     "id": "bugsounet/MMM-FranceInfo",
     "url": "https://github.com/bugsounet/MMM-FranceInfo",
     "author": "bugsounet",
-    "desc": "[FR] Affiche les flux rss de [franceinfo](https://www.francetvinfo.fr/) sur MagicMirror²."
+    "desc": "[FR] Affiche les flux rss de [franceinfo](https://www.francetvinfo.fr/). [EN] Displays rss feeds from franceinfo."
   },
   {
     "longname": "MMM-FrenchHoroscope",
@@ -641,7 +662,7 @@
     "id": "Helpi90/MMM-HLTV",
     "url": "https://github.com/Helpi90/MMM-HLTV",
     "author": "Helpi90",
-    "desc": "Module which will show CS:GO matches provided by HLTV."
+    "desc": "Show CS:GO matches provided by HLTV."
   },
   {
     "longname": "JIR-Tarifa-luz",
@@ -676,7 +697,7 @@
     "id": "mumblebaj/MMM-NewsAPI",
     "url": "https://github.com/mumblebaj/MMM-NewsAPI",
     "author": "mumblebaj",
-    "desc": "Module to to get news from [newsapi.org](https://newsapi.org)."
+    "desc": "Get news from [newsapi.org](https://newsapi.org)."
   },
   {
     "longname": "MMM-News-QR",
@@ -704,7 +725,7 @@
     "id": "Menturan/MMM-OpeningHours",
     "url": "https://github.com/Menturan/MMM-OpeningHours",
     "author": "Menturan",
-    "desc": "Module that displays places opening hours."
+    "desc": "Display places opening hours."
   },
   {
     "longname": "MMM-OnThisDay",
@@ -768,27 +789,6 @@
     "url": "https://github.com/mihairinzis/MMM-wiki",
     "author": "mrinzis",
     "desc": "Displays random Wikipedia snippets."
-  },
-  {
-    "longname": "MMM-ZAPTEC",
-    "id": "PierreGode/MMM-ZAPTEC",
-    "url": "https://github.com/PierreGode/MMM-ZAPTEC",
-    "author": "Pierre Gode",
-    "desc": "Display ZAPTEC charging API."
-  },
-  {
-    "longname": "DWD-RealtimeIrishRail",
-    "id": "DavidLSmyth/DWD-RealtimeIrishRail",
-    "url": "https://github.com/DavidLSmyth/DWD-RealtimeIrishRail",
-    "author": "DavidLSmyth",
-    "desc": "Display Realtime Irish Rail data for a targeted station."
-  },
-  {
-    "longname": "emt",
-    "id": "jirsis/emt",
-    "url": "https://github.com/jirsis/emt",
-    "author": "jirsis",
-    "desc": "Estimated arrival time and distance Madrid buses."
   },
   {
     "longname": "MMM-AC-aseag",
@@ -875,13 +875,6 @@
     "desc": "Displays some of your Hyundai's data on your Mirror, the code is based on [MMM-Tesla2](https://github.com/martinburheimtingstad/MMM-Tesla2)."
   },
   {
-    "longname": "MMM-BMWConnected",
-    "id": "jannekalliola/MMM-BMWConnected",
-    "url": "https://github.com/jannekalliola/MMM-BMWConnected",
-    "author": "jannekalliola",
-    "desc": "Displays information about your BMW from the BMW Connected Drive API."
-  },
-  {
     "longname": "MMM-Bubi",
     "id": "balassy/MMM-Bubi",
     "url": "https://github.com/balassy/MMM-Bubi",
@@ -963,7 +956,7 @@
     "id": "Helpi90/MMM-DBF",
     "url": "https://github.com/Helpi90/MMM-DBF",
     "author": "Helpi90",
-    "desc": "Module to display train arrivals/departures (unofficial frontend for db navigator) with details for Germany."
+    "desc": "Display train arrivals/departures (unofficial frontend for db navigator) with details for Germany."
   },
   {
     "longname": "MMM-DCMetroTimes",
@@ -1015,11 +1008,25 @@
     "desc": "Station monitor for the Dresden/Germany local transport (DVB) bus, tram and train system."
   },
   {
+    "longname": "DWD-RealtimeIrishRail",
+    "id": "DavidLSmyth/DWD-RealtimeIrishRail",
+    "url": "https://github.com/DavidLSmyth/DWD-RealtimeIrishRail",
+    "author": "DavidLSmyth",
+    "desc": "Display Realtime Irish Rail data for a targeted station."
+  },
+  {
     "longname": "MMM-EFA-departures",
     "id": "sourceforge807/MMM-EFA-departures",
     "url": "https://github.com/sourceforge807/MMM-EFA-departures",
     "author": "sourceforge807",
     "desc": "Station monitor for local transport companies using the EFA system."
+  },
+  {
+    "longname": "emt",
+    "id": "jirsis/emt",
+    "url": "https://github.com/jirsis/emt",
+    "author": "jirsis",
+    "desc": "Estimated arrival time and distance Madrid buses."
   },
   {
     "longname": "MMM-Elvira",
@@ -1061,7 +1068,7 @@
     "id": "tbouron/MMM-FlightTracker",
     "url": "https://github.com/tbouron/MMM-FlightTracker",
     "author": "tbouron",
-    "desc": "Module that uses ADS-B systems to track and display nearby planes."
+    "desc": "Use ADS-B systems to track and display nearby planes."
   },
   {
     "longname": "MMM-Fuel",
@@ -1148,18 +1155,25 @@
     "desc": "Display Estimated Time of Arrival (ETA) of Hong Kong public transport."
   },
   {
-    "longname": "MMM-transitfeed",
-    "id": "bnitkin/MMM-transitfeed",
-    "url": "https://github.com/bnitkin/MMM-transitfeed",
-    "author": "bnitkin",
-    "desc": "Upcoming departures for any transit agencies that publishes GTFS."
-  },
-  {
     "longname": "mm-hsl-timetable",
     "id": "ZakarFin/mm-hsl-timetable",
     "url": "https://github.com/ZakarFin/mm-hsl-timetable",
     "author": "ZakarFin",
     "desc": "Display departures for public transport in Helsinki region - Finland."
+  },
+  {
+    "longname": "MMM-IDF-LOCALTRANSPORT",
+    "id": "djey47/MMM-IDF-LOCALTRANSPORT",
+    "url": "https://github.com/djey47/MMM-IDF-LOCALTRANSPORT",
+    "author": "djey47",
+    "desc": "Local transport in IDF (STIF) module based on [MMM-Paris-RATP-PG](https://github.com/da4throux/MMM-Paris-RATP-PG)."
+  },
+  {
+    "longname": "MMM-IdF-Transport",
+    "id": "FalseIlyu/MMM-IdF-Transport",
+    "url": "https://github.com/FalseIlyu/MMM-IdF-Transport",
+    "author": "FalseIlyu",
+    "desc": "Display next bus/tramway/metro/train in the Paris/Ile-de-France région in France using IDFM API."
   },
   {
     "longname": "MMM-idos",
@@ -1285,7 +1299,7 @@
     "id": "wiesty/MMM-MVVWiesty",
     "url": "https://github.com/wiesty/MMM-MVVWiesty",
     "author": "wiesty",
-    "desc": "Module to display public transport 🚐 from Munich in Germany."
+    "desc": "Display public transport 🚐 from Munich in Germany."
   },
   {
     "longname": "MMM-MyCommute",
@@ -1300,6 +1314,13 @@
     "url": "https://github.com/htilburgs/MMM-MyTraffic",
     "author": "HTilburgs",
     "desc": "Real Time Dutch traffic information from the ANWB. Module is dead for now (there is a PR which seems to fix it)."
+  },
+  {
+    "longname": "MMM-MyTransitTime",
+    "id": "SageBrushes/MMM-MyTransitTime",
+    "url": "https://github.com/SageBrushes/MMM-MyTransitTime",
+    "author": "SageBrushes",
+    "desc": "Display step by step directions to a location and provide an estimated time of arrival using Google Maps API."
   },
   {
     "longname": "MMM-MyTTC",
@@ -1534,10 +1555,10 @@
   },
   {
     "longname": "MMM-SL-PublicTransport",
-    "id": "boghammar/MMM-SL-PublicTransport",
-    "url": "https://github.com/boghammar/MMM-SL-PublicTransport",
-    "author": "boghammar",
-    "desc": "Display public transport in Stockholm/**Sweden**."
+    "id": "ulrichwisser/MMM-SL-PublicTransport",
+    "url": "https://github.com/ulrichwisser/MMM-SL-PublicTransport",
+    "author": "ulrichwisser",
+    "desc": "Display public transport in Stockholm in Sweden. Updates to use latest API (mandatory from April 2024)! Please provide feedback if things don't work as expected."
   },
   {
     "longname": "MMM-SNCF",
@@ -1600,7 +1621,7 @@
     "id": "wiesty/MMM-Tankerkoenig",
     "url": "https://github.com/wiesty/MMM-Tankerkoenig",
     "author": "wiesty",
-    "desc": "Module to display the local gas prices in Germany (Tankstellen-Preise)."
+    "desc": "Display the local gas prices in Germany (Tankstellen-Preise)."
   },
   {
     "longname": "MMM-Tesla",
@@ -1719,7 +1740,14 @@
     "id": "per-garden/MMM-Trains-Trafikverket",
     "url": "https://github.com/per-garden/MMM-Trains-Trafikverket",
     "author": "per-garden",
-    "desc": "Module to display train departure times for railway stations within Sweden, as supplied by the Swedish Transport Administration (Trafikverket)."
+    "desc": "Display train departure times for railway stations within Sweden, as supplied by the Swedish Transport Administration (Trafikverket)."
+  },
+  {
+    "longname": "MMM-transitfeed",
+    "id": "bnitkin/MMM-transitfeed",
+    "url": "https://github.com/bnitkin/MMM-transitfeed",
+    "author": "bnitkin",
+    "desc": "Upcoming departures for any transit agencies that publishes GTFS."
   },
   {
     "longname": "MMM-TranslinkBrisbane",
@@ -1729,11 +1757,11 @@
     "desc": "Simple display of train departure times for Brisbane (Australia)."
   },
   {
-    "longname": "MMM-MyTransitTime",
-    "id": "SageBrushes/MMM-MyTransitTime",
-    "url": "https://github.com/SageBrushes/MMM-MyTransitTime",
-    "author": "SageBrushes",
-    "desc": "Display step by step directions to a location and provide an estimated time of arrival using Google Maps API."
+    "longname": "MMM-TrainTimesRTT",
+    "id": "tticehurst/MMM-TrainTimesRTT",
+    "url": "https://github.com/tticehurst/MMM-TrainTimesRTT",
+    "author": "tticehurst",
+    "desc": "Displays live train times making use of the [RTT.io](https://api.rtt.io) api."
   },
   {
     "longname": "MMM-TransLoc",
@@ -1781,7 +1809,7 @@
     "longname": "MMM-UKLiveTrainDepartures",
     "id": "XBCreepinJesus/MMM-UKLiveTrainDepartures",
     "url": "https://github.com/XBCreepinJesus/MMM-UKLiveTrainDepartures",
-    "author": "CreepinJesus",
+    "author": "XBCreepinJesus",
     "desc": "Show live train departure/arrival times for the UK's National Rail network."
   },
   {
@@ -1810,7 +1838,7 @@
     "id": "nigel-daniels/MMM-VTA-Live",
     "url": "https://github.com/nigel-daniels/MMM-VTA-Live",
     "author": "nigel-daniels",
-    "desc": "Updated: You can now monitor live arrival times at many CA, Bay Area transit stops. This covers BART, VTA, etc."
+    "desc": "Display the live arrival times at a stop on the VTA light rail system."
   },
   {
     "longname": "MMM-vvsDeparture",
@@ -1848,25 +1876,11 @@
     "desc": "Displays car routes on the map, using Yandex.Maps API."
   },
   {
-    "longname": "MMM-TrainTimesRTT",
-    "id": "tticehurst/MMM-TrainTimesRTT",
-    "url": "https://github.com/tticehurst/MMM-TrainTimesRTT",
-    "author": "tticehurst",
-    "desc": "Displays live train times making use of the [RTT.io](https://api.rtt.io) api."
-  },
-  {
-    "longname": "MMM-IdF-Transport",
-    "id": "FalseIlyu/MMM-IdF-Transport",
-    "url": "https://github.com/FalseIlyu/MMM-IdF-Transport",
-    "author": "FalseIlyu",
-    "desc": "Display next bus/tramway/metro/train in the Paris/Ile-de-France région in France using IDFM API."
-  },
-  {
-    "longname": "MMM-IDF-LOCALTRANSPORT",
-    "id": "djey47/MMM-IDF-LOCALTRANSPORT",
-    "url": "https://github.com/djey47/MMM-IDF-LOCALTRANSPORT",
-    "author": "djey47",
-    "desc": "Local transport in IDF (STIF) module based on [MMM-Paris-RATP-PG](https://github.com/da4throux/MMM-Paris-RATP-PG)."
+    "longname": "MMM-ZAPTEC",
+    "id": "PierreGode/MMM-ZAPTEC",
+    "url": "https://github.com/PierreGode/MMM-ZAPTEC",
+    "author": "PierreGode",
+    "desc": "Display ZAPTEC charging API."
   },
   {
     "longname": "MMM-alexa",
@@ -2012,7 +2026,7 @@
     "longname": "MMM-2Day-NOAA-Forecast",
     "id": "jinserk/MMM-2Day-NOAA-Forecast",
     "url": "https://github.com/jinserk/MMM-2Day-NOAA-Forecast",
-    "author": "Jinserk Baik",
+    "author": "jinserk",
     "desc": "Show 4 consecutive 12-hr forecast, provided by [NOAA National Weather Service API](https://www.weather.gov/documentation/services-web-api). No user registration nor API-key required."
   },
   {
@@ -2069,7 +2083,7 @@
     "id": "ryck/MMM-AQI",
     "url": "https://github.com/ryck/MMM-AQI",
     "author": "ryck",
-    "desc": "Module to get the Air Quality Index (AQI) using the World Air Quality Index project API."
+    "desc": "Get the Air Quality Index (AQI) using the World Air Quality Index project API."
   },
   {
     "longname": "MMM-aqicn",
@@ -2181,7 +2195,7 @@
     "id": "CharlesMorris78/MMM-EnvCanada",
     "url": "https://github.com/CharlesMorris78/MMM-EnvCanada",
     "author": "CharlesMorris78",
-    "desc": "Module to display weather forecast information from Environment Canada."
+    "desc": "Display weather forecast information from Environment Canada."
   },
   {
     "longname": "MMM-Farevarsel",
@@ -2569,6 +2583,13 @@
     "desc": "Simple clean display of the weather now, designed to go with MMM-3Day-Forecast. Now uses Open Weather as WeatherBit reduced the free service to an unusable level :( If you installed an older version ( < 18 Oct 2022 ), please update and get a new api key!"
   },
   {
+    "longname": "MMM-WeatherOutfit",
+    "id": "Lavve/MMM-WeatherOutfit",
+    "url": "https://github.com/Lavve/MMM-WeatherOutfit",
+    "author": "Lavve",
+    "desc": "Presents appropriate outfit depending on current outside temperature received from Otto Paulsen's outstanding [MQTT module](https://github.com/ottopaulsen/MMM-MQTT)."
+  },
+  {
     "longname": "MMM-Weather-SMHI-Hourly",
     "id": "Menturan/MMM-Weather-SMHI-Hourly",
     "url": "https://github.com/Menturan/MMM-Weather-SMHI-Hourly",
@@ -2758,6 +2779,13 @@
     "desc": "Display ayah/verse of Qur'an randomly."
   },
   {
+    "longname": "MMM-Saint",
+    "id": "bugsounet/MMM-Saint",
+    "url": "https://github.com/bugsounet/MMM-Saint",
+    "author": "bugsounet",
+    "desc": "[FR] Affiche le saint du jour. [EN] Displays the saint of the day."
+  },
+  {
     "longname": "MMM-shabbat",
     "id": "sheyabernstein/MMM-shabbat",
     "url": "https://github.com/sheyabernstein/MMM-shabbat",
@@ -2770,13 +2798,6 @@
     "url": "https://github.com/shmulyeng/MMM-Zmanim",
     "author": "shmulyeng",
     "desc": "Displays daily Jewish calendar information."
-  },
-  {
-    "longname": "MMM-Rugby",
-    "id": "mumblebaj/MMM-Rugby",
-    "url": "https://github.com/mumblebaj/MMM-Rugby",
-    "author": "mumblebaj",
-    "desc": "Module to display Rugby World Rankings and Upcoming Matches and results."
   },
   {
     "longname": "MMM-AllsvenskanStandings",
@@ -2807,6 +2828,13 @@
     "desc": "Displays the Top 25 College Football Teams (USA) based on the Associated Press Polling."
   },
   {
+    "longname": "MMM-CricketScores",
+    "id": "dsouzadrian/MMM-CricketScores",
+    "url": "https://github.com/dsouzadrian/MMM-CricketScores",
+    "author": "dsouzadrian",
+    "desc": "Display cicket scores for ongoing live cricket matches."
+  },
+  {
     "longname": "MMM-Formula1",
     "id": "ianperrin/MMM-Formula1",
     "url": "https://github.com/ianperrin/MMM-Formula1",
@@ -2819,6 +2847,20 @@
     "url": "https://github.com/jupadin/MMM-F1",
     "author": "jupadin",
     "desc": "Displays the current driver standings of the current Formula 1 season."
+  },
+  {
+    "longname": "MMM-GConnect",
+    "id": "tderflinger/MMM-GConnect",
+    "url": "https://github.com/tderflinger/MMM-GConnect",
+    "author": "td",
+    "desc": "Display sports data from your Garmin Connect(tm) account."
+  },
+  {
+    "longname": "MMM-GHIN",
+    "id": "C-Deck/MMM-GHIN",
+    "url": "https://github.com/C-Deck/MMM-GHIN",
+    "author": "C-Deck",
+    "desc": "Display your official USGA Ghin handicap."
   },
   {
     "longname": "MMM-Liquipedia-Matches",
@@ -2846,7 +2888,7 @@
     "id": "jclarke0000/MMM-MyScoreboard",
     "url": "https://github.com/jclarke0000/MMM-MyScoreboard",
     "author": "jclarke000",
-    "desc": "Module to display today's scores for your favourite teams across multiple sports."
+    "desc": "Display today's scores for your favourite teams across multiple sports."
   },
   {
     "longname": "MMM-MyStandings",
@@ -2891,6 +2933,13 @@
     "desc": "Displays PGA tournaments scores."
   },
   {
+    "longname": "MMM-Rugby",
+    "id": "mumblebaj/MMM-Rugby",
+    "url": "https://github.com/mumblebaj/MMM-Rugby",
+    "author": "mumblebaj",
+    "desc": "Display Rugby World Rankings and Upcoming Matches and results."
+  },
+  {
     "longname": "MMM-SHL",
     "id": "bureus/MMM-SHL",
     "url": "https://github.com/bureus/MMM-SHL",
@@ -2926,27 +2975,6 @@
     "desc": "Display the tables of the Polish Speedway Leagues (PGE Ekstraliga, I. Liga Żużlowa , II. Liga Żużlowa)."
   },
   {
-    "longname": "MMM-GHIN",
-    "id": "C-Deck/MMM-GHIN",
-    "url": "https://github.com/C-Deck/MMM-GHIN",
-    "author": "C-Deck",
-    "desc": "Display your official USGA Ghin handicap."
-  },
-  {
-    "longname": "MMM-CricketScores",
-    "id": "dsouzadrian/MMM-CricketScores",
-    "url": "https://github.com/dsouzadrian/MMM-CricketScores",
-    "author": "dsouzadrian",
-    "desc": "Display cicket scores for ongoing live cricket matches."
-  },
-  {
-    "longname": "MMM-GConnect",
-    "id": "tderflinger/MMM-GConnect",
-    "url": "https://github.com/tderflinger/MMM-GConnect",
-    "author": "td",
-    "desc": "Display sports data from your Garmin Connect(tm) account."
-  },
-  {
     "longname": "MMM-mmpm",
     "id": "bee-mar/MMM-mmpm",
     "url": "https://github.com/bee-mar/MMM-mmpm",
@@ -2972,14 +3000,14 @@
     "id": "ryanzor/MMM-AirbarHelper",
     "url": "https://github.com/ryanzor/MMM-AirbarHelper",
     "author": "Ryan Cooke",
-    "desc": "Module to add touch input to your mirror using a ~$50 usb plug and play sensor."
+    "desc": "Add touch input to your mirror using a ~$50 usb plug and play sensor."
   },
   {
     "longname": "MMM-Airtable",
     "id": "yashatgit/MMM-Airtable",
     "url": "https://github.com/yashatgit/MMM-Airtable",
     "author": "Yash",
-    "desc": "Module to display tables from Airtable."
+    "desc": "Display tables from Airtable."
   },
   {
     "longname": "MMM-AlarmClock",
@@ -2990,8 +3018,8 @@
   },
   {
     "longname": "MMM-Afvalwijzer",
-    "id": "gertperdZA/MMM-AfvalWijzer",
-    "url": "https://github.com/gertperdZA/MMM-AfvalWijzer",
+    "id": "gertperdZA/MMM-Afvalwijzer",
+    "url": "https://github.com/gertperdZA/MMM-Afvalwijzer",
     "author": "gertperdZA",
     "desc": "Display trashcollection days of the Afvalwijzer service in the Netherlands."
   },
@@ -3007,7 +3035,7 @@
     "id": "codetheweb/MMM-AnyList",
     "url": "https://github.com/codetheweb/MMM-AnyList",
     "author": "codetheweb",
-    "desc": "Module to display a list from the AnyList app."
+    "desc": "Display a list from the AnyList app."
   },
   {
     "longname": "MMM-AOE2-STATS",
@@ -3084,7 +3112,7 @@
     "id": "justjim1220/MMM-BornBeforeDate",
     "url": "https://github.com/justjim1220/MMM-BornBeforeDate",
     "author": "justjim1220",
-    "desc": "Module request to show the date you must be born before to enter premises."
+    "desc": "Show the date you must be born before to enter premises."
   },
   {
     "longname": "MMM-Bose-Soundtouch",
@@ -3602,7 +3630,7 @@
     "id": "Snille/MMM-HideAll",
     "url": "https://github.com/Snille/MMM-HideAll",
     "author": "Snille",
-    "desc": "Module to hide everything on screen. With a lot of features and customizations."
+    "desc": "Hide everything on screen. With a lot of features and customizations."
   },
   {
     "longname": "MMM-Hive",
@@ -3700,7 +3728,7 @@
     "id": "maan75/MMM-HRS-PickupPlan",
     "url": "https://github.com/maan75/MMM-HRS-PickupPlan",
     "author": "Martin Andreassen",
-    "desc": "Module to display upcoming pickup dates for garbage in the Norwegian municipalities of Harstad, Narvik, Evenes, Gratangen, Ibestad, Kvæfjord, Lavangen and Tjeldsund."
+    "desc": "Display upcoming pickup dates for garbage in the Norwegian municipalities of Harstad, Narvik, Evenes, Gratangen, Ibestad, Kvæfjord, Lavangen and Tjeldsund."
   },
   {
     "longname": "mmm-hue-lights",
@@ -3728,7 +3756,7 @@
     "id": "jboucly/MMM-Hue-Controller-2",
     "url": "https://github.com/jboucly/MMM-Hue-Controller-2",
     "author": "jboucly",
-    "desc": "Module lists your Hue light and allows complete interaction."
+    "desc": "List your Hue light and allows complete interaction."
   },
   {
     "longname": "MMM-HVIEW-Snapshot",
@@ -3742,7 +3770,7 @@
     "id": "PierreGode/MMM-ICA",
     "url": "https://github.com/PierreGode/MMM-ICA",
     "author": "Pierre Gode",
-    "desc": "MMM-ICA is a module for connecting to the Swedish grocery store ICA API and get information."
+    "desc": "List information from swedish food grocery ICA."
   },
   {
     "longname": "MMM-iCal-ToDo",
@@ -3777,7 +3805,7 @@
     "id": "jharttech/MMM-iFrame-GSlides",
     "url": "https://github.com/jharttech/MMM-iFrame-GSlides",
     "author": "jharttech",
-    "desc": "Module to add an iFrame of a published Google Slides Presentation."
+    "desc": "Add an iFrame of a published Google Slides Presentation."
   },
   {
     "longname": "MMM-iFrame-Ping",
@@ -3896,7 +3924,7 @@
     "id": "shbatm/MMM-KeyBindings",
     "url": "https://github.com/shbatm/MMM-KeyBindings",
     "author": "shbatm",
-    "desc": "A module for getting bluetooth remote control and keyboard inputs."
+    "desc": "Getting bluetooth remote control and keyboard inputs."
   },
   {
     "longname": "MMM-Keyboard",
@@ -3910,7 +3938,7 @@
     "id": "ItsMeBrille/MMM-Keypress",
     "url": "https://github.com/ItsMeBrille/MMM-Keypress",
     "author": "ItsMeBrille",
-    "desc": "A module for sending notifications to other modules based on keys pressed."
+    "desc": "Sending notifications to other modules based on keys pressed."
   },
   {
     "longname": "KeyDisplayed",
@@ -3931,7 +3959,7 @@
     "id": "Tom-Hirschberger/MMM-LEDStripControl",
     "url": "https://github.com/Tom-Hirschberger/MMM-LEDStripControl",
     "author": "Tom-Hirschberger",
-    "desc": "A module to control the color (and pong game parameters) of led strips via MQTT."
+    "desc": "Control the color (and pong game parameters) of led strips via MQTT."
   },
   {
     "longname": "MMM-Live-Stream-TV",
@@ -3945,7 +3973,7 @@
     "id": "djey47/MMM-LKY-TIC",
     "url": "https://github.com/djey47/MMM-LKY-TIC",
     "author": "djey47",
-    "desc": "Module to display info about home power supply - FRANCE TELEINFO ENEDIS."
+    "desc": "Display info about home power supply - FRANCE TELEINFO ENEDIS."
   },
   {
     "longname": "MMM-LocalVideoPlayer",
@@ -3966,7 +3994,14 @@
     "id": "doctorfree/MMM-MacAddressScan",
     "url": "https://github.com/doctorfree/MMM-MacAddressScan",
     "author": "doctorfree",
-    "desc": "A module which determines the status of devices on the network based on their MAC address. It can also look up devices by IP addresses or hostnames. This module is an enhanced clone of the excellent MMM-NetworkScanner module by [Ian Perrin](https://github.com/ianperrin)."
+    "desc": "Determine the status of devices on the network based on their MAC address. It can also look up devices by IP addresses or hostnames. This module is an enhanced clone of the excellent MMM-NetworkScanner module by [Ian Perrin](https://github.com/ianperrin)."
+  },
+  {
+    "longname": "MMM-MagicHexClock",
+    "id": "Lavve/MMM-MagicHexClock",
+    "url": "https://github.com/Lavve/MMM-MagicHexClock",
+    "author": "Lavve",
+    "desc": "Shows a clock in cool hexadecimal colors."
   },
   {
     "longname": "MMM-MailMessage",
@@ -4099,7 +4134,7 @@
     "id": "ottopaulsen/MMM-MQTT",
     "url": "https://github.com/ottopaulsen/MMM-MQTT",
     "author": "ottopaulsen",
-    "desc": "A module that subscribes topics from MQTT message queues, and displays the payload values in a table, with configurable labels."
+    "desc": "Subscribe topics from MQTT message queues, and displays the payload values in a table, with configurable labels."
   },
   {
     "longname": "MMM-MQTT",
@@ -4113,21 +4148,21 @@
     "id": "janm84/MMM-MQTTbind",
     "url": "https://github.com/janm84/MMM-MQTTbind",
     "author": "Janm84",
-    "desc": "A module to subscribe to MQTT topics and forward the payload (as it is) as notification and vice versa. Features QoS, Clean Session, Retained Messages and Shortcuts."
+    "desc": "Subscribe to MQTT topics and forward the payload (as it is) as notification and vice versa. Features QoS, Clean Session, Retained Messages and Shortcuts."
   },
   {
     "longname": "MMM-MQTT-Publisher",
     "id": "cybex-dev/MMM-MQTT-Publisher",
     "url": "https://github.com/cybex-dev/MMM-MQTT-Publisher",
     "author": "cybex-dev",
-    "desc": "MM Module that publishes notifications with any payload (messages, values, etc) sent via received by `sendNotification()` method to specified topics on MQTT Broker(s)."
+    "desc": "Publishe notifications with any payload (messages, values, etc) sent via received by `sendNotification()` method to specified topics on MQTT Broker(s)."
   },
   {
     "longname": "MMM-MQTTfloorplan",
     "id": "DMailMan/MMM-MQTTfloorplan",
     "url": "https://github.com/DMailMan/MMM-MQTTfloorplan",
     "author": "DMailMan",
-    "desc": "A module that subscribes to topics from MQTT message queues, and displays the sensor results on a floor plan of your house."
+    "desc": "Subscribe to topics from MQTT message queues, and display the sensor results on a floor plan of your house."
   },
   {
     "longname": "MMM-Memo",
@@ -4169,14 +4204,7 @@
     "id": "oenstrom/MMM-mycroft-bridge",
     "url": "https://github.com/oenstrom/MMM-mycroft-bridge",
     "author": "oenstrom",
-    "desc": "A module that connects to the Mycroft messagebus."
-  },
-  {
-    "longname": "MMM-mycroft-wakeword",
-    "id": "smartgic/MMM-mycroft-wakeword",
-    "url": "https://github.com/smartgic/MMM-mycroft-wakeword",
-    "author": "Smart'Gic",
-    "desc": "When a Mycroft AI wake word is detected, an image is displayed and when the recording is done the image disappears."
+    "desc": "Connecting your mirror to the Mycroft messagebus."
   },
   {
     "longname": "MMM-MyGarbage",
@@ -4219,20 +4247,6 @@
     "url": "https://github.com/jclarke0000/MMM-MyWastePickup",
     "author": "Jeff Clarke",
     "desc": "Displays your schedule for Toronto curb-side waste collection."
-  },
-  {
-    "longname": "MMM-ObjectBlocks",
-    "id": "jimmykh/MMM-ObjectBlocks",
-    "url": "https://github.com/jimmykh/MMM-ObjectBlocks",
-    "author": "jimmykh",
-    "desc": "Module to talk to Arduino two-way via web-socket and ObjectBlocks platform."
-  },
-  {
-    "longname": "MMM-RecyclingCalendar",
-    "id": "FatTony404/MMM-RecyclingCalendar",
-    "url": "https://gitlab.com/FatTony404/MMM-RecyclingCalendar",
-    "author": "FatTony404",
-    "desc": "Displays recycling calendar data from Stadt Zürich, Switzerland."
   },
   {
     "longname": "MMM-MyStudyLife",
@@ -4354,6 +4368,13 @@
     "desc": "Display your Notion database."
   },
   {
+    "longname": "MMM-ObjectBlocks",
+    "id": "jimmykh/MMM-ObjectBlocks",
+    "url": "https://github.com/jimmykh/MMM-ObjectBlocks",
+    "author": "jimmykh",
+    "desc": "Talk to Arduino two-way via web-socket and ObjectBlocks platform."
+  },
+  {
     "longname": "octomirror-module",
     "id": "shbatm/octomirror-module",
     "url": "https://github.com/shbatm/octomirror-module",
@@ -4431,6 +4452,13 @@
     "desc": "Displays energy usage history for your Octopus Energy account."
   },
   {
+    "longname": "MMM-ovos-wakeword",
+    "id": "smartgic/MMM-ovos-wakeword",
+    "url": "https://github.com/smartgic/MMM-ovos-wakeword",
+    "author": "Smart'Gic",
+    "desc": "When a Mycroft AI wake word is detected, an image is displayed and when the recording is done the image disappears."
+  },
+  {
     "longname": "MMM-PageReader",
     "id": "dgburr/MMM-PageReader",
     "url": "https://github.com/dgburr/MMM-PageReader",
@@ -4456,7 +4484,7 @@
     "id": "mykle1/MMM-PC-Stats",
     "url": "https://github.com/mykle1/MMM-PC-Stats",
     "author": "mykle1",
-    "desc": "A module to get system stats from a PC board. Supports multiple core CPU's."
+    "desc": "Get system stats from a PC board. Supports multiple core CPU's."
   },
   {
     "longname": "MMM-Peloton",
@@ -4470,7 +4498,7 @@
     "id": "mumblebaj/MMM-PhilipsHue",
     "url": "https://github.com/mumblebaj/MMM-PhilipsHue",
     "author": "mumblebaj",
-    "desc": "Module to grab the status of your lights from your Hue Bridge with some updated features to display status of lights or groups."
+    "desc": "Grab the status of your lights from your Hue Bridge with some updated features to display status of lights or groups."
   },
   {
     "longname": "MMM-Plenticore",
@@ -4564,6 +4592,13 @@
     "desc": "Track the status of your services with opened/closed ports."
   },
   {
+    "longname": "MMM-PostDelivery-Norway",
+    "id": "reidarw/MMM-PostDelivery-Norway",
+    "url": "https://github.com/reidarw/MMM-PostDelivery-Norway",
+    "author": "reidarw",
+    "desc": "Show the next post delivery day for your zip code in Norway."
+  },
+  {
     "longname": "MMM-Postnord",
     "id": "bureus/MMM-Postnord",
     "url": "https://github.com/bureus/MMM-Postnord",
@@ -4603,7 +4638,7 @@
     "id": "Snille/MMM-Profilepicture",
     "url": "https://github.com/Snille/MMM-Profilepicture",
     "author": "Snille",
-    "desc": "A module for adding a background picture to the current profile."
+    "desc": "Adding a background picture to the current profile."
   },
   {
     "longname": "MMM-PushBulletNotifications",
@@ -4625,6 +4660,13 @@
     "url": "https://github.com/JasonVonKrueger/MMM-QR-Remote-Link",
     "author": "Roger Poore",
     "desc": "Display a QR code with a link to a local module."
+  },
+  {
+    "longname": "MMM-RecyclingCalendar",
+    "id": "FatTony404/MMM-RecyclingCalendar",
+    "url": "https://gitlab.com/FatTony404/MMM-RecyclingCalendar",
+    "author": "FatTony404",
+    "desc": "Displays recycling calendar data from Stadt Zürich, Switzerland."
   },
   {
     "longname": "MMM-RouterClients",
@@ -4715,14 +4757,14 @@
     "id": "jeroenpeters1986/MMM-ROVA-trashcalendar",
     "url": "https://github.com/jeroenpeters1986/MMM-ROVA-trashcalendar",
     "author": "jeroenpeters1986",
-    "desc": "Module which shows when and which type of trash will be collected by Dutch garbage service ROVA."
+    "desc": "Display when and which type of trash will be collected by Dutch garbage service ROVA."
   },
   {
     "longname": "MMM-RubbishCollection",
     "id": "nikobix/MMM-RubbishCollection",
     "url": "https://github.com/nikobix/MMM-RubbishCollection",
     "author": "nikobix",
-    "desc": "Module to skim council website and extract rubish collection times."
+    "desc": "Skim council website and extract rubish collection times."
   },
   {
     "longname": "Shelly-HT",
@@ -4746,25 +4788,11 @@
     "desc": "Display Soliscloud inverter data."
   },
   {
-    "longname": "MMM-TRV-WastePlan",
-    "id": "reidarw/MMM-TRV-WastePlan",
-    "url": "https://github.com/reidarw/MMM-TRV-WastePlan",
-    "author": "reidarw",
-    "desc": "Module for showing the waste plan for your destination in Trondheim, Norway."
-  },
-  {
-    "longname": "MMM-PostDelivery-Norway",
-    "id": "reidarw/MMM-PostDelivery-Norway",
-    "url": "https://github.com/reidarw/MMM-PostDelivery-Norway",
-    "author": "reidarw",
-    "desc": "Module for showing showing the next post delivery day for your zip code in Norway."
-  },
-  {
     "longname": "MMM-ScreenLogic",
     "id": "parnic/MMM-ScreenLogic",
     "url": "https://github.com/parnic/MMM-ScreenLogic",
     "author": "Parnic",
-    "desc": "Module to read data from a Pentair ScreenLogic pool system."
+    "desc": "Read data from a Pentair ScreenLogic pool system."
   },
   {
     "longname": "MMM-Screen-Powersave-Notification",
@@ -4813,14 +4841,14 @@
     "id": "XBCreepinJesus/MMM-ServerStatus",
     "url": "https://github.com/XBCreepinJesus/MMM-ServerStatus",
     "author": "CreepinJesus",
-    "desc": "A module to check the up/down status of servers/devices on your network."
+    "desc": "Check the up/down status of servers/devices on your network."
   },
   {
     "longname": "MMM-Serial-Notifications",
     "id": "Tom-Hirschberger/MMM-Serial-Notifications",
     "url": "https://github.com/Tom-Hirschberger/MMM-Serial-Notifications",
     "author": "Tom-Hirschberger",
-    "desc": "A module to send notifications based on messages received via one/multiple serial devices."
+    "desc": "Send notifications based on messages received via one/multiple serial devices."
   },
   {
     "longname": "MMM-ServiceViewer",
@@ -4872,6 +4900,13 @@
     "desc": "Simply displays logo with local image file path or url."
   },
   {
+    "longname": "MMM-SimpleNotifyTrashDay",
+    "id": "sabo10o29/MMM-SimpleNotifyTrashDay",
+    "url": "https://github.com/sabo10o29/MMM-SimpleNotifyTrashDay",
+    "author": "sabo10o29",
+    "desc": "Shows trash days with simple setup."
+  },
+  {
     "longname": "MMM-Skolmaten",
     "id": "retroflex/MMM-Skolmaten",
     "url": "https://github.com/retroflex/MMM-Skolmaten",
@@ -4897,14 +4932,14 @@
     "id": "sdetweil/MMM-SleepWake",
     "url": "https://github.com/sdetweil/MMM-SleepWake",
     "author": "sdetweil",
-    "desc": "Module that uses an external source for motion detection, like a web camera ."
+    "desc": "Use an external source for motion detection, like a web camera ."
   },
   {
     "longname": "MMM-Smappee",
     "id": "CFenner/MMM-Smappee",
     "url": "https://github.com/CFenner/MMM-Smappee",
     "author": "CFenner",
-    "desc": "Module to integrate [Smappee](https://www.smappee.com)s smart home energy consumption monitor."
+    "desc": "Integrate [Smappee](https://www.smappee.com)s smart home energy consumption monitor."
   },
   {
     "longname": "MMM-SmartWebDisplay",
@@ -4967,7 +5002,7 @@
     "id": "tbouron/MMM-Sonos",
     "url": "https://github.com/tbouron/MMM-Sonos",
     "author": "tbouron",
-    "desc": "Module that displays playing tracks on your Sonos network."
+    "desc": "Display playing tracks on your Sonos network."
   },
   {
     "longname": "MMM-StatusPageIo",
@@ -5058,7 +5093,7 @@
     "id": "WouterEekhout/MMM-Tado",
     "url": "https://github.com/WouterEekhout/MMM-Tado",
     "author": "WouterEekhout",
-    "desc": "Module for your Tado Smart Thermostat."
+    "desc": "Display information from your Tado Smart Thermostat."
   },
   {
     "longname": "MMM-TelegramCommands",
@@ -5121,14 +5156,14 @@
     "id": "MichMich/MMM-Toon",
     "url": "https://github.com/MichMich/MMM-Toon",
     "author": "MichMich",
-    "desc": "A module for the Toon Thermostat."
+    "desc": "Disply information from the Toon Thermostat."
   },
   {
     "longname": "MMM-Touch",
     "id": "gfischershaw/MMM-Touch",
     "url": "https://github.com/gfischershaw/MMM-Touch",
     "author": "gfischershaw",
-    "desc": "Module for universal touch gesture commander using touchscreen."
+    "desc": "Universal touch gesture commander using touchscreen."
   },
   {
     "longname": "MMM-TouchButton",
@@ -5159,11 +5194,32 @@
     "desc": "This module can show [Trello](https://trello.com) cards on your mirror."
   },
   {
+    "longname": "MMM-TRV-WastePlan",
+    "id": "reidarw/MMM-TRV-WastePlan",
+    "url": "https://github.com/reidarw/MMM-TRV-WastePlan",
+    "author": "reidarw",
+    "desc": "Display the waste plan for your destination in Trondheim, Norway."
+  },
+  {
     "longname": "MMM-TuyaSL",
     "id": "slametps/MMM-TuyaSL",
     "url": "https://github.com/slametps/MMM-TuyaSL",
     "author": "Slamet PS",
     "desc": "Display the status of smarthome devices based on Tuya IoT-Platform (managed by SmartLife app)."
+  },
+  {
+    "longname": "MMM-Transmission",
+    "id": "nikxif/MMM-Transmission",
+    "url": "https://github.com/nikxif/MMM-Transmission",
+    "author": "nikxif",
+    "desc": "Connect to the Transmission BitTorrent client and display current torrent list information."
+  },
+  {
+    "longname": "MMM-Timetagger",
+    "id": "tderflinger/MMM-Timetagger",
+    "url": "https://github.com/tderflinger/MMM-Timetagger",
+    "author": "TD",
+    "desc": "Shows the latest hours tracked by the time tracking application Timetagger."
   },
   {
     "longname": "mmm-udr",
@@ -5285,13 +5341,6 @@
     "desc": "Get the word of the day, its definition, and origin."
   },
   {
-    "longname": "MMM-Worldclock",
-    "id": "BKeyport/MMM-Worldclock",
-    "url": "https://github.com/BKeyport/MMM-Worldclock",
-    "author": "BKeyport & eouia",
-    "desc": "Fully supported version of worldclock."
-  },
-  {
     "longname": "MMM-WS281X-Server",
     "id": "coderpussy/MMM-WS281X-Server",
     "url": "https://github.com/coderpussy/MMM-WS281X-Server",
@@ -5346,27 +5395,6 @@
     "url": "https://github.com/spectroman/mmm-zabbix-alerts",
     "author": "Spectroman",
     "desc": "Show the status of triggers from Zabbix via API calls."
-  },
-  {
-    "longname": "MMM-Transmission",
-    "id": "nikxif/MMM-Transmission",
-    "url": "https://github.com/nikxif/MMM-Transmission",
-    "author": "nikxif",
-    "desc": "Connect to the Transmission BitTorrent client and display current torrent list information."
-  },
-  {
-    "longname": "MMM-SimpleNotifyTrashDay",
-    "id": "sabo10o29/MMM-SimpleNotifyTrashDay",
-    "url": "https://github.com/sabo10o29/MMM-SimpleNotifyTrashDay",
-    "author": "sabo10o29",
-    "desc": "Shows trash days with simple setup."
-  },
-  {
-    "longname": "MMM-Timetagger",
-    "id": "tderflinger/MMM-Timetagger",
-    "url": "https://github.com/tderflinger/MMM-Timetagger",
-    "author": "TD",
-    "desc": "Shows the latest hours tracked by the time tracking application Timetagger."
   },
   {
     "longname": "MMM-1-Second-A-Day",
@@ -5429,7 +5457,21 @@
     "id": "blixhavn/MMM-AvfallshentingOslo",
     "url": "https://github.com/blixhavn/MMM-AvfallshentingOslo",
     "author": "Blixhavn",
-    "desc": "A module to show the next waste pickup dates for any address in Oslo, Norway."
+    "desc": "Show the next waste pickup dates for any address in Oslo, Norway."
+  },
+  {
+    "longname": "MMM-BackgroundSlideshow",
+    "id": "darickc/MMM-BackgroundSlideshow",
+    "url": "https://github.com/darickc/MMM-BackgroundSlideshow",
+    "author": "darickc",
+    "desc": "Show fullscreen slideshow in background from images in a local folder. Great for a photo frame."
+  },
+  {
+    "longname": "MMM-bernwordclock",
+    "id": "splattner/MMM-bernwordclock",
+    "url": "https://github.com/splattner/MMM-bernwordclock",
+    "author": "splattner",
+    "desc": "Displays a Word Clock written in the Swiss German dialect of Bern."
   },
   {
     "longname": "MMM-BinaryClock",
@@ -5443,14 +5485,7 @@
     "id": "pcurt/MMM-BlaguesAPI",
     "url": "https://github.com/pcurt/MMM-BlaguesAPI",
     "author": "pcurt",
-    "desc": "Module that shows french jokes from the BlaguesAPI <https://www.blagues-api.fr>."
-  },
-  {
-    "longname": "MMM-BackgroundSlideshow",
-    "id": "darickc/MMM-BackgroundSlideshow",
-    "url": "https://github.com/darickc/MMM-BackgroundSlideshow",
-    "author": "darickc",
-    "desc": "Show fullscreen slideshow in background from images in a local folder. Great for a photo frame."
+    "desc": "Show french jokes from the BlaguesAPI <https://www.blagues-api.fr>."
   },
   {
     "longname": "MMM-BrawlStars",
@@ -5548,7 +5583,7 @@
     "id": "macd2point0/MMM-CloneWarsQuotes",
     "url": "https://github.com/macd2point0/MMM-CloneWarsQuotes",
     "author": "macd2point0",
-    "desc": "Module displays a random intro quote from *The Clone Wars* television series, seasons 1-6."
+    "desc": "Display a random intro quote from *The Clone Wars* television series, seasons 1-6."
   },
   {
     "longname": "MM-concert-calendar",
@@ -5569,7 +5604,7 @@
     "id": "wiesty/MMM-CoupleDays",
     "url": "https://github.com/wiesty/MMM-CoupleDays",
     "author": "wiesty",
-    "desc": "Module that displays the number of days, weeks, months, and years since a specified date, serving as a romantic reminder for couples 💌. Can also be used for Birthdays 📆."
+    "desc": "Display the number of days, weeks, months, and years since a specified date, serving as a romantic reminder for couples 💌. Can also be used for Birthdays 📆."
   },
   {
     "longname": "MMM-Cronixie",
@@ -5810,6 +5845,13 @@
     "desc": "Show what is playing on your Frontier Silicon powered radio."
   },
   {
+    "longname": "MMM-FunnyHolidays",
+    "id": "mattileh/MMM-FunnyHolidays",
+    "url": "https://github.com/mattileh/MMM-FunnyHolidays",
+    "author": "Mattileh",
+    "desc": "Shows Today's and Tomorrow's \"funny\" holidays around world (datasource <www.webcal.fi>)."
+  },
+  {
     "longname": "MMM-germanwordclock",
     "id": "alexBeuth/MMM-germanwordclock",
     "url": "https://github.com/alexBeuth/MMM-germanwordclock",
@@ -5856,7 +5898,7 @@
     "id": "aleckeller/MMM-HappyHours",
     "url": "https://github.com/aleckeller/MMM-HappyHours",
     "author": "aleckeller",
-    "desc": "A module that finds and displays local happy hours."
+    "desc": "Find and display local happy hours."
   },
   {
     "longname": "MMM-History",
@@ -5962,20 +6004,6 @@
     "url": "https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow",
     "author": "AdamMoses-GitHub",
     "desc": "Displays images one-at-a-time from local folders."
-  },
-  {
-    "longname": "MMM-WebHookAlerts",
-    "id": "PjTewkesbury/MMM-WebHookAlerts",
-    "url": "https://github.com/PjTewkesbury/MMM-WebHookAlerts",
-    "author": "PJTewkesbury-GitHub",
-    "desc": "Displays HTTP POST webhook notifications on screen and supports templates for alert message formatting."
-  },
-  {
-    "longname": "MMM-PlexSlideshow",
-    "id": "PjTewkesbury/MMM-PlexSlideshow",
-    "url": "https://github.com/PjTewkesbury/MMM-PlexSlideshow",
-    "author": "PJTewkesbury-GitHub",
-    "desc": "Displays images in the background one at a time, pulling the images from a PLEX Media Server."
   },
   {
     "longname": "MMM-ImagesPhotos",
@@ -6209,6 +6237,13 @@
     "desc": "Displays current playing media on a remote machine with a MPRIS2 capable player."
   },
   {
+    "longname": "MMM-mumble",
+    "id": "ThePirateWhoSmellsOfSunflowers/MMM-mumble",
+    "url": "https://github.com/ThePirateWhoSmellsOfSunflowers/MMM-mumble",
+    "author": "TPWSOS",
+    "desc": "Display users currently connected on the mumble server (murmur)."
+  },
+  {
     "longname": "MMM-MusicButler",
     "id": "jrettsch/MMM-MusicButler",
     "url": "https://github.com/jrettsch/MMM-MusicButler",
@@ -6286,13 +6321,6 @@
     "desc": "Shows something on odd, even, or both, days."
   },
   {
-    "longname": "MMM-SpotifyReleases",
-    "id": "Ruud14/MMM-SpotifyReleases",
-    "url": "https://github.com/Ruud14/MMM-SpotifyReleases",
-    "author": "Ruud14",
-    "desc": "Displays the latest releases from your favorite spotify artists."
-  },
-  {
     "longname": "MMM-OneDrive",
     "id": "hermanho/MMM-OneDrive",
     "url": "https://github.com/hermanho/MMM-OneDrive",
@@ -6325,7 +6353,7 @@
     "id": "spelinski/MMM-PandorasMirror",
     "url": "https://github.com/spelinski/MMM-PandorasMirror",
     "author": "spelinski",
-    "desc": "A module for streaming Pandora music."
+    "desc": "Streaming Pandora music."
   },
   {
     "longname": "MMM-PaprikaMenu",
@@ -6368,6 +6396,20 @@
     "url": "https://github.com/mjb527/MMM-PL_WOTD",
     "author": "mjb527",
     "desc": "Displays a Polish Word of the Day with examples and the English translations."
+  },
+  {
+    "longname": "planetrise",
+    "id": "croxis/planetrise",
+    "url": "https://github.com/croxis/planetrise",
+    "author": "croxis",
+    "desc": "Display the rise and set times of the planets."
+  },
+  {
+    "longname": "MMM-PlexSlideshow",
+    "id": "PjTewkesbury/MMM-PlexSlideshow",
+    "url": "https://github.com/PjTewkesbury/MMM-PlexSlideshow",
+    "author": "PJTewkesbury-GitHub",
+    "desc": "Displays images in the background one at a time, pulling the images from a PLEX Media Server."
   },
   {
     "longname": "MMM-Podcast2",
@@ -6417,6 +6459,27 @@
     "url": "https://github.com/ptornhult/MMM-Pure-Snow",
     "author": "ptornhult",
     "desc": "Another snow plugin to improve your winter experience."
+  },
+  {
+    "longname": "MMM-quote-of-the-day",
+    "id": "Sispheor/MMM-quote-of-the-day",
+    "url": "https://github.com/Sispheor/MMM-quote-of-the-day",
+    "author": "Sispheor",
+    "desc": "Show a random quote from an online collection of quotations by authors, celebrities, and newsmakers. Multi language supported."
+  },
+  {
+    "longname": "MMM-Quotable",
+    "id": "dfanica/MMM-Quotable",
+    "url": "https://github.com/dfanica/MMM-Quotable",
+    "author": "dfanica",
+    "desc": "Display random quotes using the [Quotable API](https://github.com/lukePeavey/quotable). Filters quotes by max length and tags."
+  },
+  {
+    "longname": "MagicMirror-QuoteCatalog",
+    "id": "salpar/MagicMirror-QuoteCatalog",
+    "url": "https://github.com/salpar/MagicMirror-QuoteCatalog",
+    "author": "salpar",
+    "desc": "Displays a random quote from various movies, books, and people."
   },
   {
     "longname": "MMM-RandomPhoto",
@@ -6472,7 +6535,7 @@
     "id": "73cirdan/MMM-Rijks",
     "url": "https://github.com/73cirdan/MMM-Rijks",
     "author": "73cirdan",
-    "desc": "Module for Rijks Museum. This was developed using the Rijksmuseum API."
+    "desc": "Show exhibits of the Rijks Museum."
   },
   {
     "longname": "MMM-RottenTomatoes",
@@ -6559,18 +6622,18 @@
     "desc": "Adds vertical space (as HTML div) between modules."
   },
   {
-    "longname": "MMM-SpotifyConnectUI",
-    "id": "CatoAntonsen/MMM-SpotifyConnectUI",
-    "url": "https://github.com/CatoAntonsen/MMM-SpotifyConnectUI",
-    "author": "CatoAntonsen",
-    "desc": "Display information from Spotify Connect e.g. cover, artist and track information."
-  },
-  {
     "longname": "MMM-Spotify",
     "id": "skuethe/MMM-Spotify",
     "url": "https://github.com/skuethe/MMM-Spotify",
     "author": "skuethe",
     "desc": "Spotify Controller - with device and account switch buttons, easy volume change via touch and much more."
+  },
+  {
+    "longname": "MMM-SpotifyConnectUI",
+    "id": "CatoAntonsen/MMM-SpotifyConnectUI",
+    "url": "https://github.com/CatoAntonsen/MMM-SpotifyConnectUI",
+    "author": "CatoAntonsen",
+    "desc": "Display information from Spotify Connect e.g. cover, artist and track information."
   },
   {
     "longname": "MMM-SpotifyHelper",
@@ -6585,6 +6648,13 @@
     "url": "https://github.com/buxxi/MMM-SteamPlaytime",
     "author": "buxxi",
     "desc": "Displays time spent on games on Steam for a specific user."
+  },
+  {
+    "longname": "MMM-SpotifyReleases",
+    "id": "Ruud14/MMM-SpotifyReleases",
+    "url": "https://github.com/Ruud14/MMM-SpotifyReleases",
+    "author": "Ruud14",
+    "desc": "Displays the latest releases from your favorite spotify artists."
   },
   {
     "longname": "MMM-stoic-quotes",
@@ -6626,7 +6696,7 @@
     "id": "JulienPeloton/MMM-tns",
     "url": "https://github.com/JulienPeloton/MMM-tns",
     "author": "JulienPeloton",
-    "desc": "Module to display latest new astronomical transients from [TNS](https://wis-tns.weizmann.ac.il) such as [supernova](https://en.wikipedia.org/wiki/Supernova) candidates."
+    "desc": "Display latest new astronomical transients from [TNS](https://wis-tns.weizmann.ac.il) such as supernova candidates."
   },
   {
     "longname": "MMM-Trakt",
@@ -6671,6 +6741,48 @@
     "desc": "Displays the follower count of a Twitter user of choice."
   },
   {
+    "longname": "PlutoTime",
+    "id": "croxis/PlutoTime",
+    "url": "https://github.com/croxis/PlutoTime",
+    "author": "croxis",
+    "desc": "Display the next time on a clear morning or evening that you can go outside and experience the brightness of high noon on Pluto."
+  },
+  {
+    "longname": "random_quotes",
+    "id": "KirAsh4/random_quotes",
+    "url": "https://github.com/KirAsh4/random_quotes",
+    "author": "KirAsh4",
+    "desc": "Display random quotes from brainyquote."
+  },
+  {
+    "longname": "MMM-RandomQuotes",
+    "id": "Jacopo1891/MMM-RandomQuotes",
+    "url": "https://github.com/Jacopo1891/MMM-RandomQuotes",
+    "author": "Jacopo1891",
+    "desc": "Display a random quote from various authorship using Ninjas API."
+  },
+  {
+    "longname": "MMM-SimpleBackgroundSlideshow",
+    "id": "muhammedsaidckr/MMM-SimpleBackgroundSlideshow",
+    "url": "https://github.com/muhammedsaidckr/MMM-SimpleBackgroundSlideshow",
+    "author": "muhammedsaidckr",
+    "desc": "Display a simple, customizable background slideshow."
+  },
+  {
+    "longname": "MMM-teamspeak3",
+    "id": "Thlb/MMM-teamspeak3",
+    "url": "https://github.com/Thlb/MMM-teamspeak3",
+    "author": "Thlb",
+    "desc": "Display client list of a Teamspeak3 server."
+  },
+  {
+    "longname": "twitControl",
+    "id": "Blastitt/twitControl",
+    "url": "https://github.com/Blastitt/twitControl",
+    "author": "Blastitt",
+    "desc": "Display your Twitter feed."
+  },
+  {
     "longname": "MMM-Udvaronc",
     "id": "balassy/MMM-Udvaronc",
     "url": "https://github.com/balassy/MMM-Udvaronc",
@@ -6689,7 +6801,7 @@
     "id": "asimhsidd/MMM-VideoPlayer",
     "url": "https://github.com/asimhsidd/MMM-VideoPlayer",
     "author": "Asimsidd",
-    "desc": "A module for playing video from any device on the same network."
+    "desc": "Playing video from any device on the same network."
   },
   {
     "longname": "MMM-Videoplayer",
@@ -6713,6 +6825,27 @@
     "desc": "Control volume of MagicMirror²."
   },
   {
+    "longname": "MMM-volumio-playing",
+    "id": "mrdis/MMM-volumio-playing",
+    "url": "https://github.com/mrdis/MMM-volumio-playing",
+    "author": "mrdis",
+    "desc": "Displays what a Volumio device is currently playing."
+  },
+  {
+    "longname": "WallberryTheme",
+    "id": "delightedCrow/WallberryTheme",
+    "url": "https://github.com/delightedCrow/WallberryTheme",
+    "author": "delightedCrow",
+    "desc": "Re-themes MagicMirror² to look like a beautiful digital photo wall display. It adds a new font, styles, redesigned clock and weather displays, and rotating background image pulled from unsplash.com."
+  },
+  {
+    "longname": "MMM-WebHookAlerts",
+    "id": "PjTewkesbury/MMM-WebHookAlerts",
+    "url": "https://github.com/PjTewkesbury/MMM-WebHookAlerts",
+    "author": "PJTewkesbury-GitHub",
+    "desc": "Displays HTTP POST webhook notifications on screen and supports templates for alert message formatting."
+  },
+  {
     "longname": "MMM-Wallpaper",
     "id": "kolbyjack/MMM-Wallpaper",
     "url": "https://github.com/kolbyjack/MMM-Wallpaper",
@@ -6734,137 +6867,11 @@
     "desc": "Displays the Merriam-Webster word of the day along with its part of speech, pronunciation, definition, and an example."
   },
   {
-    "longname": "MMM-YouTube-API",
-    "id": "C4TFLY/MMM-YouTube-API",
-    "url": "https://github.com/C4TFLY/MMM-YouTube-API",
-    "author": "C4TFLY",
-    "desc": "Enables easy integration of YouTube videos."
-  },
-  {
-    "longname": "MMM-YT-SubCount",
-    "id": "choffmann/MMM-YT-SubCount",
-    "url": "https://github.com/choffmann/MMM-YT-SubCount",
-    "author": "choffmann",
-    "desc": "Show the subscription from Youtube Channel."
-  },
-  {
-    "longname": "MMM-YouTube-Live-Stream",
-    "id": "ngnijland/MMM-YouTube-Live-Stream",
-    "url": "https://github.com/ngnijland/MMM-YouTube-Live-Stream",
-    "author": "ngnijland",
-    "desc": "A module that checks if a YouTube channel if streaming. If it is, it plays the live stream."
-  },
-  {
-    "longname": "MMM-mumble",
-    "id": "ThePirateWhoSmellsOfSunflowers/MMM-mumble",
-    "url": "https://github.com/ThePirateWhoSmellsOfSunflowers/MMM-mumble",
-    "author": "TPWSOS",
-    "desc": "Display users currently connected on the mumble server (murmur)."
-  },
-  {
-    "longname": "MMM-quote-of-the-day",
-    "id": "Sispheor/MMM-quote-of-the-day",
-    "url": "https://github.com/Sispheor/MMM-quote-of-the-day",
-    "author": "Sispheor",
-    "desc": "Show a random quote from an online collection of quotations by authors, celebrities, and newsmakers. Multi language supported."
-  },
-  {
-    "longname": "MMM-Quotable",
-    "id": "dfanica/MMM-Quotable",
-    "url": "https://github.com/dfanica/MMM-Quotable",
-    "author": "dfanica",
-    "desc": "Display random quotes using the [Quotable API](https://github.com/lukePeavey/quotable). Filters quotes by max length and tags."
-  },
-  {
-    "longname": "MMM-teamspeak3",
-    "id": "Thlb/MMM-teamspeak3",
-    "url": "https://github.com/Thlb/MMM-teamspeak3",
-    "author": "Thlb",
-    "desc": "Display client list of a Teamspeak3 server."
-  },
-  {
-    "longname": "MMM-volumio-playing",
-    "id": "mrdis/MMM-volumio-playing",
-    "url": "https://github.com/mrdis/MMM-volumio-playing",
-    "author": "mrdis",
-    "desc": "Displays what a Volumio device is currently playing."
-  },
-  {
-    "longname": "PlutoTime",
-    "id": "croxis/PlutoTime",
-    "url": "https://github.com/croxis/PlutoTime",
-    "author": "croxis",
-    "desc": "Display the next time on a clear morning or evening that you can go outside and experience the brightness of high noon on Pluto."
-  },
-  {
-    "longname": "MMM-bernwordclock",
-    "id": "splattner/MMM-bernwordclock",
-    "url": "https://github.com/splattner/MMM-bernwordclock",
-    "author": "splattner",
-    "desc": "Displays a Word Clock written in the Swiss German dialect of Bern."
-  },
-  {
-    "longname": "MagicMirror-QuoteCatalog",
-    "id": "salpar/MagicMirror-QuoteCatalog",
-    "url": "https://github.com/salpar/MagicMirror-QuoteCatalog",
-    "author": "salpar",
-    "desc": "Displays a random quote from various movies, books, and people."
-  },
-  {
-    "longname": "WallberryTheme",
-    "id": "delightedCrow/WallberryTheme",
-    "url": "https://github.com/delightedCrow/WallberryTheme",
-    "author": "delightedCrow",
-    "desc": "Re-themes MagicMirror² to look like a beautiful digital photo wall display. It adds a new font, styles, redesigned clock and weather displays, and rotating background image pulled from unsplash.com."
-  },
-  {
-    "longname": "planetrise",
-    "id": "croxis/planetrise",
-    "url": "https://github.com/croxis/planetrise",
-    "author": "croxis",
-    "desc": "Display the rise and set times of the planets."
-  },
-  {
-    "longname": "random_quotes",
-    "id": "KirAsh4/random_quotes",
-    "url": "https://github.com/KirAsh4/random_quotes",
-    "author": "KirAsh4",
-    "desc": "Display random quotes from brainyquote."
-  },
-  {
-    "longname": "MMM-RandomQuotes",
-    "id": "Jacopo1891/MMM-RandomQuotes",
-    "url": "https://github.com/Jacopo1891/MMM-RandomQuotes",
-    "author": "Jacopo1891",
-    "desc": "Display a random quote from various authorship using Ninjas API."
-  },
-  {
-    "longname": "twitControl",
-    "id": "Blastitt/twitControl",
-    "url": "https://github.com/Blastitt/twitControl",
-    "author": "Blastitt",
-    "desc": "Display your Twitter feed."
-  },
-  {
-    "longname": "worldclock",
-    "id": "ulrichwisser/worldclock",
-    "url": "https://github.com/ulrichwisser/worldclock",
+    "longname": "MMM-Worldclock",
+    "id": "ulrichwisser/MMM-Worldclock",
+    "url": "https://github.com/ulrichwisser/MMM-Worldclock",
     "author": "ulrichwisser",
-    "desc": "Display local time of several locations."
-  },
-  {
-    "longname": "MMM-FunnyHolidays",
-    "id": "mattileh/MMM-FunnyHolidays",
-    "url": "https://github.com/mattileh/MMM-FunnyHolidays",
-    "author": "Mattileh",
-    "desc": "Shows Today's and Tomorrow's \"funny\" holidays around world (datasource <www.webcal.fi>)."
-  },
-  {
-    "longname": "MMM-yijv",
-    "id": "jdonge/MMM-yijv",
-    "url": "https://github.com/jdonge/MMM-yijv",
-    "author": "jdonge",
-    "desc": "Instead of default compliments with classical poems, just supports Chinese.随机产生一句古诗词。."
+    "desc": "Display local time of several locations. Fully supported and updated."
   },
   {
     "longname": "MMM-XKCD",
@@ -6874,11 +6881,32 @@
     "desc": "Displays either the daily XKCD comic or a random XKCD comic."
   },
   {
-    "longname": "MMM-SimpleBackgroundSlideshow",
-    "id": "muhammedsaidckr/MMM-SimpleBackgroundSlideshow",
-    "url": "https://github.com/muhammedsaidckr/MMM-SimpleBackgroundSlideshow",
-    "author": "muhammedsaidckr",
-    "desc": "is a module for MagicMirror² that allows you to display a simple, customizable background slideshow on your MagicMirror²."
+    "longname": "MMM-yijv",
+    "id": "jdonge/MMM-yijv",
+    "url": "https://github.com/jdonge/MMM-yijv",
+    "author": "jdonge",
+    "desc": "Instead of default compliments with classical poems, just supports Chinese.随机产生一句古诗词。."
+  },
+  {
+    "longname": "MMM-YouTube-API",
+    "id": "C4TFLY/MMM-YouTube-API",
+    "url": "https://github.com/C4TFLY/MMM-YouTube-API",
+    "author": "C4TFLY",
+    "desc": "Enables easy integration of YouTube videos."
+  },
+  {
+    "longname": "MMM-YouTube-Live-Stream",
+    "id": "ngnijland/MMM-YouTube-Live-Stream",
+    "url": "https://github.com/ngnijland/MMM-YouTube-Live-Stream",
+    "author": "ngnijland",
+    "desc": "Check if a YouTube channel if streaming. If it is, it plays the live stream."
+  },
+  {
+    "longname": "MMM-YT-SubCount",
+    "id": "choffmann/MMM-YT-SubCount",
+    "url": "https://github.com/choffmann/MMM-YT-SubCount",
+    "author": "choffmann",
+    "desc": "Show the subscription from Youtube Channel."
   },
   {
     "longname": "MMM-Breathwork",
@@ -6990,7 +7018,7 @@
     "id": "chase-cromwell/MMM-Canvas",
     "url": "https://github.com/chase-cromwell/MMM-Canvas",
     "author": "Chase Cromwell",
-    "desc": "Module to display upcoming assignments from Canvas LMS platform."
+    "desc": "Display upcoming assignments from Canvas LMS platform."
   },
   {
     "longname": "MMM-eswordoftheday",
@@ -7231,6 +7259,13 @@
     "desc": "You can remote-control plugins within Telegram."
   },
   {
+    "longname": "EXT-Touch",
+    "id": "bugsounet/EXT-Touch",
+    "url": "https://github.com/bugsounet/EXT-Touch",
+    "author": "bugsounet",
+    "desc": "Activate MMM-GoogleAssistant with a Touch Screen by Touching the Google Icon."
+  },
+  {
     "longname": "EXT-Updates",
     "id": "bugsounet/EXT-Updates",
     "url": "https://github.com/bugsounet/EXT-Updates",
@@ -7299,6 +7334,13 @@
     "url": "https://github.com/mykle1/MMM-BMW-CC",
     "author": "Mykle1",
     "desc": "Weather designed for bottom bar position, now using the ClimaCell API.  Abandoned. The API endpoint changed. This module needs updated, but the author is inactive. |"
+  },
+  {
+    "longname": "MMM-BMWConnected",
+    "id": "jannekalliola/MMM-BMWConnected",
+    "url": "https://github.com/jannekalliola/MMM-BMWConnected",
+    "author": "jannekalliola",
+    "desc": "Displays information about your BMW from the BMW Connected Drive API. No longer works, per README.|"
   },
   {
     "longname": "MMM-BMW-DS",
@@ -7382,7 +7424,7 @@
     "id": "eouia/MMM-DailyAlarm",
     "url": "https://github.com/eouia/MMM-DailyAlarm",
     "author": "eouia",
-    "desc": "Module for daily recurrent event alarms.  Abandoned. Repo has been archived at 2020-06-10. |"
+    "desc": "Daily recurrent event alarms.  Abandoned. Repo has been archived at 2020-06-10. |"
   },
   {
     "longname": "MMM-DarkSky24Hours",
@@ -7431,7 +7473,7 @@
     "id": "marcobiedermann/MMM-dribbble",
     "url": "https://github.com/marcobiedermann/MMM-dribbble",
     "author": "marcobiedermann",
-    "desc": "Module which shows the latest popular [dribbble](https://dribbble.com) shots.  Abandoned. Repo has been archived at 2023-10-24. |"
+    "desc": "Display the latest popular [dribbble](https://dribbble.com) shots.  Abandoned. Repo has been archived at 2023-10-24. |"
   },
   {
     "longname": "MMM-DropboxWallpaper",
@@ -7501,14 +7543,14 @@
     "id": "jesmak/MMM-FinParcel",
     "url": "https://github.com/jesmak/MMM-FinParcel",
     "author": "jesmak",
-    "desc": "Module that tracks packages from Finnish Posti and/or Matkahuolto.  Abandoned. Repo has been archived at 2024-01-22. |"
+    "desc": "Track packages from Finnish Posti and/or Matkahuolto.  Abandoned. Repo has been archived at 2024-01-22. |"
   },
   {
     "longname": "MMM-FlightRadarTracker",
     "id": "jesmak/MMM-FlightRadarTracker",
     "url": "https://github.com/jesmak/MMM-FlightRadarTracker",
     "author": "jesmak",
-    "desc": "Module that tracks nearby planes based on Flightradar24 data.  Abandoned. Repo has been archived at 2024-01-22. |"
+    "desc": "Track nearby planes based on Flightradar24 data.  Abandoned. Repo has been archived at 2024-01-22. |"
   },
   {
     "longname": "mmm-food2fork-recipes",
@@ -7788,7 +7830,7 @@
     "id": "grenagit/MMM-PIR-Sensor-Lite",
     "url": "https://github.com/grenagit/MMM-PIR-Sensor-Lite",
     "author": "Grena",
-    "desc": "A module managing monitor with PIR motion sensor (automatic standby when presence isn't detected).  Abandoned. Repo has been archived at 2024-01-10. There seems to be [an active fork](https://github.com/hervidero/MMM-PIR-Sensor-Lite), but the clone command has not yet been adapted. |"
+    "desc": "Managing monitor with PIR motion sensor (automatic standby when presence isn't detected).  Abandoned. Repo has been archived at 2024-01-10. There seems to be [an active fork](https://github.com/hervidero/MMM-PIR-Sensor-Lite), but the clone command has not yet been adapted. |"
   },
   {
     "longname": "MMM-Ring",
@@ -7816,7 +7858,7 @@
     "id": "MMRIZE/MMM-Scenes",
     "url": "https://github.com/MMRIZE/MMM-Scenes",
     "author": "MMRIZE",
-    "desc": "Module to change screen scenes by time and order with ANIMATION EFFECT. Deprecated. The successor is MMM-Scenes2. |"
+    "desc": "Change screen scenes by time and order with animation effect. Deprecated. The successor is MMM-Scenes2. |"
   },
   {
     "longname": "MMM-ScottishPremierLeague",
@@ -7858,7 +7900,7 @@
     "id": "mykle1/MMM-SunRiseSet",
     "url": "https://github.com/mykle1/MMM-SunRiseSet",
     "author": "Mykle1",
-    "desc": "More information than you ever wanted to know about the rising and setting of the sun.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "More information than you ever wanted to know about the rising and setting of the sun.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. Also, source has altered API. |"
   },
   {
     "longname": "MMM-SystemStats",

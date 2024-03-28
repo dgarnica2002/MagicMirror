@@ -114,22 +114,22 @@ let config = {
 				verseSize: "1.5vw"
 			}
 		},
-		{
-			module: "MMM-TrafficMap",
-			position: "bottom_left",
-			config: {
-				key: "RKbAY32rYRyxC132GpDdmhWou2r9zjE8",
-				lng: -123.0078962743303,
-				lat: 44.89804746946594,
-				mlng: -123.0078962743303,
-				mlat: 44.89804746946594,
-				zoom: 12,
-				traffic: "relative-delay",
-				showMarker: true,
-				height: "40vh",
-				width: "28vw"
-			}
-		},
+		// {
+		// 	module: "MMM-TrafficMap",
+		// 	position: "bottom_left",
+		// 	config: {
+		// 		key: "RKbAY32rYRyxC132GpDdmhWou2r9zjE8",
+		// 		lng: -123.0078962743303,
+		// 		lat: 44.89804746946594,
+		// 		mlng: -123.0078962743303,
+		// 		mlat: 44.89804746946594,
+		// 		zoom: 12,
+		// 		traffic: "relative-delay",
+		// 		showMarker: true,
+		// 		height: "40vh",
+		// 		width: "28vw"
+		// 	}
+		// },
 		{
 			module: 'MMM-Remote-Control',
 			// uncomment the following line to show the URL of the remote control on the mirror
@@ -143,6 +143,30 @@ let config = {
 				// customMenu: "custom_menu.json", // Optional, See "Custom Menu Items" below
 				apiKey: "chasedgeese#336s", // Optional, See API/README.md for details
 				// classes: {} // Optional, See "Custom Classes" below
+			}
+		},
+		{
+			module: 'MMM-SimpleText',
+			position: 'bottom_left',
+			config: {
+				fontURL: {
+					'value': 'Tahoma, Geneva, sans-serif'
+				},
+				fontSize: {
+					'value': 'large'
+				},
+				fontStyle: {
+					'value': 'italic'
+				},
+				color: {
+					'value': '#FFFFFF'
+				},
+				refreshMs: {
+					'value': '100000000'
+				},
+				filePath: {
+					'value': 'menu.txt'
+				},
 			}
 		},
 		// {
