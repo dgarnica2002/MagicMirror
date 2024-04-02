@@ -1,0 +1,54 @@
+.text-image {
+    width: 100%;
+}
+
+.text-image-blackAndWhite {
+    filter: grayscale(100%);
+}
+
+.text-p {
+    line-height: 1.3em;
+    font-weight: 300;
+    margin: 4px;
+}
+
+.text-content {
+    text-align: left;
+}
+
+.text-header {
+    display: flex;
+}
+
+.text-hr {
+    display: block;
+    height: 1px;
+    width: 80%;
+    border: 0;
+    border-top: 1px solid #ffffff;
+    margin: auto;
+}
+
+
+.text-menu-title {
+    text-align: center;
+    font-size: 2vw;
+}
+
+
+.text-title {
+    text-align: center;
+}
+
+
+.text-ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+	list-style: none;
+}
+
+.text-li {
+    text-decoration: none;
+    margin: 0.5vw;
+    font-size: 1vw;
+}

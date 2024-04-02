@@ -114,6 +114,19 @@ let config = {
 				verseSize: "1.5vw"
 			}
 		},
+		{
+			module: "MMM-Text",
+			position: "bottom_left",       // This can be any region
+			config: {
+				// See 'Configuration options' for more information.
+				textColor: "#fff",
+				textSize: "1.5vw",
+				headerTitle: "First Call Meals",
+				filePath: "menu.txt",
+				fileContent: "",
+				qrCode: "https://i.ibb.co/G5MGWx7/qr-code.png"
+			}
+		},
 		// {
 		// 	module: "MMM-TrafficMap",
 		// 	position: "bottom_left",
@@ -145,30 +158,30 @@ let config = {
 				// classes: {} // Optional, See "Custom Classes" below
 			}
 		},
-		{
-			module: 'MMM-SimpleText',
-			position: 'bottom_left',
-			config: {
-				fontURL: {
-					'value': 'Tahoma, Geneva, sans-serif'
-				},
-				fontSize: {
-					'value': 'large'
-				},
-				fontStyle: {
-					'value': 'italic'
-				},
-				color: {
-					'value': '#FFFFFF'
-				},
-				refreshMs: {
-					'value': '100000000'
-				},
-				filePath: {
-					'value': 'menu.txt'
-				},
-			}
-		},
+		// {
+		// 	module: 'MMM-SimpleText',
+		// 	position: 'bottom_left',
+		// 	config: {
+		// 		fontURL: {
+		// 			'value': 'Tahoma, Geneva, sans-serif'
+		// 		},
+		// 		fontSize: {
+		// 			'value': 'large'
+		// 		},
+		// 		fontStyle: {
+		// 			'value': 'italic'
+		// 		},
+		// 		color: {
+		// 			'value': '#FFFFFF'
+		// 		},
+		// 		refreshMs: {
+		// 			'value': '100000000'
+		// 		},
+		// 		filePath: {
+		// 			'value': 'menu.txt'
+		// 		},
+		// 	}
+		// },
 		// {
 		// 	module: "MMM-Page-Selector",
 		// 	position: "top_center",

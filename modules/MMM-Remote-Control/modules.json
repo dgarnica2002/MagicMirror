@@ -641,7 +641,7 @@
     "id": "bugsounet/MMM-FranceInfo",
     "url": "https://github.com/bugsounet/MMM-FranceInfo",
     "author": "bugsounet",
-    "desc": "[FR] Affiche les flux rss de [franceinfo](https://www.francetvinfo.fr/). [EN] Displays rss feeds from franceinfo."
+    "desc": "[FR] Affiche les flux rss de [franceinfo](https://www.francetvinfo.fr/). <br />[EN] Displays rss feeds from franceinfo."
   },
   {
     "longname": "MMM-FrenchHoroscope",
@@ -789,6 +789,13 @@
     "url": "https://github.com/mihairinzis/MMM-wiki",
     "author": "mrinzis",
     "desc": "Displays random Wikipedia snippets."
+  },
+  {
+    "longname": "MMM-Year-Progress",
+    "id": "ryck/MMM-Year-Progress",
+    "url": "https://github.com/ryck/MMM-Year-Progress",
+    "author": "ryck",
+    "desc": "Track the progress of the current year / month."
   },
   {
     "longname": "MMM-AC-aseag",
@@ -1908,7 +1915,7 @@
     "id": "bugsounet/MMM-GoogleAssistant",
     "url": "https://github.com/bugsounet/MMM-GoogleAssistant",
     "author": "bugsounet",
-    "desc": "MMM-GoogleAssistant is an real embedded Google assistant on MagicMirror² with many [plugins](#extended-plugins-for-mmm-googleassistant). [Maintained]."
+    "desc": "MMM-GoogleAssistant is an real embedded Google assistant on MagicMirror² with many [plugins](#extended-plugins-for-mmm-googleassistant)."
   },
   {
     "longname": "MMM-GoogleTTS",
@@ -2548,6 +2555,13 @@
     "desc": "Displays the current and forecasted UV Index for a given location given its longitude and latitude. It requires a free API token from <https://www.openuv.io/>."
   },
   {
+    "longname": "MMM-uv-index",
+    "id": "thariq-shanavas/MMM-uv-index",
+    "url": "https://github.com/thariq-shanavas/MMM-uv-index",
+    "author": "thariq-shanavas",
+    "desc": "Displays UV Index from openweathermap.org OneCall API 3.0."
+  },
+  {
     "longname": "mmm-uk-pollen-forecast",
     "id": "szech/mmm-uk-pollen-forecast",
     "url": "https://github.com/szech/mmm-uk-pollen-forecast",
@@ -2783,7 +2797,7 @@
     "id": "bugsounet/MMM-Saint",
     "url": "https://github.com/bugsounet/MMM-Saint",
     "author": "bugsounet",
-    "desc": "[FR] Affiche le saint du jour. [EN] Displays the saint of the day."
+    "desc": "[FR] Affiche le saint du jour.<br />[EN] Displays the saint of the day."
   },
   {
     "longname": "MMM-shabbat",
@@ -2958,7 +2972,7 @@
     "id": "0m4r/MMM-SoccerLiveScore",
     "url": "https://github.com/0m4r/MMM-SoccerLiveScore",
     "author": "0m4r",
-    "desc": "Display live scores of your favorite soccer leagues/competitions."
+    "desc": "Display live scores of your favorite football leagues/competitions."
   },
   {
     "longname": "MMM-soccer",
@@ -2973,6 +2987,13 @@
     "url": "https://github.com/LukasKlose/MMM-Speedway",
     "author": "LukasKlose",
     "desc": "Display the tables of the Polish Speedway Leagues (PGE Ekstraliga, I. Liga Żużlowa , II. Liga Żużlowa)."
+  },
+  {
+    "longname": "MMM-euro2024",
+    "id": "0m4r/MMM-euro2024",
+    "url": "https://github.com/0m4r/MMM-euro2024",
+    "author": "0m4r",
+    "desc": "Display live scores of Euro 2024 football games."
   },
   {
     "longname": "MMM-mmpm",
@@ -3297,6 +3318,13 @@
     "desc": "Post a message to your mirror either by MagicMirror API post or manual update (entering text onscreen)."
   },
   {
+    "longname": "MMM-CustomText",
+    "id": "dathbe/MMM-CustomText",
+    "url": "https://github.com/dathbe/MMM-CustomText",
+    "author": "dathbe",
+    "desc": "Display a custom message on your mirror, updatable via notification.  Similar to MMM-CustomMessage, but allows multiple instances."
+  },
+  {
     "longname": "MMM-CzechPost",
     "id": "RichieCZ/MMM-CzechPost",
     "url": "https://github.com/RichieCZ/MMM-CzechPost",
@@ -3449,6 +3477,13 @@
     "url": "https://github.com/RaspiManu/MMM-FrameLight",
     "author": "RaspiManu",
     "desc": "Controlling an RGB-LED strip around a smart mirror with or without touch input. It provides features for static background lighting, highly customizable effects on notifications and party lighting."
+  },
+  {
+    "longname": "MMM-Freebox",
+    "id": "bugsounet/MMM-Freebox",
+    "url": "https://github.com/bugsounet/MMM-Freebox",
+    "author": "bugsounet",
+    "desc": "[FR] Affiche les informations de votre Freebox en temps réél.<br />[EN] Displays information from your Freebox in real time."
   },
   {
     "longname": "MMM-FreeBox-Monitor",
@@ -4105,8 +4140,15 @@
     "longname": "MMM-MotionDisplay",
     "id": "pjestico/MMM-MotionDisplay",
     "url": "https://github.com/pjestico/MMM-MotionDisplay",
-    "author": "PJestico",
+    "author": "pjestico",
     "desc": "Display motion detected by your security camera."
+  },
+  {
+    "longname": "MMM-Motion-Camera",
+    "id": "yusinv/MMM-Motion-Camera",
+    "url": "https://github.com/yusinv/MMM-Motion-Camera",
+    "author": "yusinv",
+    "desc": "Show video from motion camera feed ."
   },
   {
     "longname": "MMM-MPR121",
@@ -4183,7 +4225,7 @@
     "id": "BKeyport/MMM-Multimonth",
     "url": "https://github.com/BKeyport/MMM-Multimonth",
     "author": "BKeyport",
-    "desc": "Display multiple mini-calendars at the same time (actively maintained)."
+    "desc": "Display multiple mini-calendars at the same time."
   },
   {
     "longname": "MMM-MusicOnDemand",
@@ -4361,6 +4403,13 @@
     "desc": "Display your notes stored by Alexa skill [Note Taker](https://github.com/joanaz/AS-NoteTaker)."
   },
   {
+    "longname": "MMM-Notification-To-Command",
+    "id": "Tom-Hirschberger/MMM-Notification-To-Command",
+    "url": "https://github.com/Tom-Hirschberger/MMM-Notification-To-Command",
+    "author": "Tom-Hirschberger",
+    "desc": "Run shell commands based on notifications and use the name and/or payload of the notification as arguments (optional)."
+  },
+  {
     "longname": "MMM-Notion",
     "id": "choffmann/MMM-Notion",
     "url": "https://github.com/choffmann/MMM-Notion",
@@ -4533,7 +4582,7 @@
     "id": "bugsounet/MMM-Pir",
     "url": "https://github.com/bugsounet/MMM-Pir",
     "author": "bugsounet",
-    "desc": "After a configurated time without any user interaction the display will turn off and hide all modules for economy mode.It will wake up with a PIR sensor. [Maintained]."
+    "desc": "After a configurated time without any user interaction the display will turn off and hide all modules for economy mode. It will wake up with a PIR sensor."
   },
   {
     "longname": "MMM-pihole-stats",
@@ -7682,7 +7731,7 @@
     "longname": "mmm-moon-phases",
     "id": "spectroman/mmm-moon-phases",
     "url": "https://github.com/spectroman/mmm-moon-phases",
-    "author": "Spectroman",
+    "author": "spectroman",
     "desc": "Show an image of the current moon phase.  Abandoned. Repo has been archived at 2023-10-16. |"
   },
   {
@@ -7766,7 +7815,7 @@
     "longname": "MMM-NJTransit",
     "id": "dimitrystd/MMM-NJTransit",
     "url": "https://github.com/dimitrystd/MMM-NJTransit",
-    "author": "Dmitry Studynskyi",
+    "author": "dimitrystd",
     "desc": "Real-time bus tracking for NJ Transit.  Deprecated. Old API doesn't work anymore. There is a new API, but it's not clear if keys are available. 2023-12-01. |"
   },
   {
@@ -7808,7 +7857,7 @@
     "longname": "publika",
     "id": "alonsourbano/publika",
     "url": "https://github.com/alonsourbano/publika",
-    "author": "Alonso Urbano",
+    "author": "alonsourbano",
     "desc": "Display local transport for different regions of Finland (Helsinki, Hämeenlinna, Joensuu, Jyväskylä, Kajaani, Kotka, Kouvola, Kuopio, Lahti, Lappeenranta, Mikkeli, Tampere, Oulu, Rovaniemi, Turku, Vaasa) Abandoned. No reactions to issues since years. Missing instructions to install dependency 'node-fetch'. API not working without API key anymore. |"
   },
   {
@@ -7836,7 +7885,7 @@
     "longname": "MMM-Ring",
     "id": "DustinBryant/MMM-Ring",
     "url": "https://github.com/DustinBryant/MMM-Ring",
-    "author": "Dustin Bryant",
+    "author": "DustinBryant",
     "desc": "Displays a video stream of your Ring doorbell when someone rings your doorbell.  Abandoned. Repo has been archived at 2022-08-25. |"
   },
   {
@@ -7878,7 +7927,7 @@
     "longname": "MMM-Simple-Swiper",
     "id": "Bee-Mar/MMM-Simple-Swiper",
     "url": "https://github.com/Bee-Mar/MMM-Simple-Swiper",
-    "author": "Bee-Mar; OttoJuba",
+    "author": "Bee-Mar",
     "desc": "Simple, multi-threaded interface for HC-SR04 ultra sonic sensors to be used with MMM-pages.  Abandoned. Repo has been archived at 2022-05-22. |"
   },
   {

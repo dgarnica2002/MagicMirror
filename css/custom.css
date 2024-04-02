@@ -43,16 +43,35 @@
   font-weight: normal;
 }
 
+
+.text-title {
+  font-size: 2vw;
+  font-weight: bold;
+}
+
+
 /* .daily-power-card {
   margin-top: 20vh;
 
 } */
+
 .digital,
 .daily-power-card,
+.text-card,
 .MMM-OpenWeatherMapForecast {
   background-color:rgba(36, 36, 36, 0.9);
   padding: 1.5vw;
   border-radius: 2vw;
+}
+
+
+
+.text-card {
+  margin-top: 1vh;
+  padding: 0.3vw;
+}
+.digital {
+  background: radial-gradient(274px at 7.4% 17.9%, rgb(82, 107, 248) 0.3%, rgb(167, 139, 252) 90.5%);
 }
 
 .MMM-OpenWeatherMapForecast .current-conditions-wrapper {
