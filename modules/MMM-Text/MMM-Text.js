@@ -54,8 +54,7 @@ Module.register('MMM-Text', {
         const wrapper = document.createElement('div');
         wrapper.style.width = this.config.width;
         wrapper.style.margin = this.config.margin;
-        wrapper.style.inlineSize = "25vw";
-        wrapper.style.overflowWrap = 'break-word';
+        wrapper.style.inlineSize = "30vw";
         if (this.config.fileContent) {
             // if (this.config.showImage) {
             //     wrapper.appendChild(this.createImage());
@@ -142,10 +141,14 @@ Module.register('MMM-Text', {
         const headerDiv = document.createElement('div');
         headerDiv.className = "text-header";
         const p = document.createElement("p");
-        p.innerHTML = "Pick Up & Delivery on " + this.getThisWeeksTuesday()
+        p.className = "text-scantext";
+        p.innerHTML = "Scan to Order"
         headerDiv.appendChild(p)
+
         const image = document.createElement("img");
-        image.setAttribute("src", this.config.qrCodePath)
+        image.src = this.config.qrCodePath;
+        image.style.width = "6vw";
+        image.style.height = "12vh";
         headerDiv.appendChild(image)
         content.appendChild(headerDiv);
 

@@ -124,7 +124,7 @@ let config = {
 				headerTitle: "First Call Meals",
 				filePath: "menu.txt",
 				fileContent: "",
-				qrCode: "https://i.ibb.co/G5MGWx7/qr-code.png"
+				qrCodePath: "https://i.ibb.co/G5MGWx7/qr-code.png"
 			}
 		},
 		// {
