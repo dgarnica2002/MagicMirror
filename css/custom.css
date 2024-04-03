@@ -19,18 +19,18 @@
   --font-primary: "Roboto Condensed";
   --font-secondary: "Roboto";
   
-  --font-size: 1.3vw;
+  --font-size: 1.2vw;
   --font-size-small: 0.75rem;
   --font-size-xsmall: 0.75rem;
   --font-size-xmedium: 1;
-  --font-size-medium: 1.5rem;
-  --font-size-large: 2.9rem;
+  --font-size-medium: 1.4rem;
+  --font-size-large: 2.8rem;
   --font-size-xlarge: 3.75rem;
 
-  --gap-body-top: 3vw;
+  --gap-body-top: 2vw;
   --gap-body-right: 3vw;
-  --gap-body-bottom: 2vw;
-  --gap-body-left: 3vw;
+  --gap-body-bottom: 1vw;
+  --gap-body-left: 5vw;
   
   --gap-modules: 2vw;
 }

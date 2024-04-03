@@ -120,7 +120,7 @@ let config = {
 			config: {
 				// See 'Configuration options' for more information.
 				textColor: "#fff",
-				textSize: "1.1vw",
+				textSize: "1vw",
 				headerTitle: "First Call Meals",
 				filePath: "menu.txt",
 				fileContent: "",
