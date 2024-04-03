@@ -1,6 +1,6 @@
 Module.register('MMM-Text', {
     defaults: {
-        width: '75%',
+        width: '50%',
         margin: '0 auto',
         //translation: 'de',
         textColor: '#ccc',
@@ -49,12 +49,11 @@ Module.register('MMM-Text', {
 			});
 		}
 
-
         this.headerTitle = this.config.headerTitle
         const wrapper = document.createElement('div');
         wrapper.style.width = this.config.width;
         wrapper.style.margin = this.config.margin;
-        wrapper.style.inlineSize = "30vw";
+        wrapper.style.inlineSize = "32vw";
         if (this.config.fileContent) {
             // if (this.config.showImage) {
             //     wrapper.appendChild(this.createImage());
