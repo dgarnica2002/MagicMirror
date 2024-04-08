@@ -48,7 +48,6 @@ Module.register("MMM-Image", {
             image.src = this.config.imagesPath + "/" + this.imageURLs[this.imageIndex] + "?seed=" + getTimeStamp;
             console.log(image.src);
             image.style.maxWidth = this.config.maxWidth;
-            image.style.maxHeight = "80%";
             image.style.paddingBottom = "1vw";
             wrapper.appendChild(image);
         }

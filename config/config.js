@@ -100,7 +100,7 @@ let config = {
 			position: "upper_third",
 			config: {
 				maxWidth: "18%",       // Sizes the images. Retains aspect ratio.
-				updateInterval: 10 * 1000, // set in config.js
+				updateInterval: 30 * 1000, // set in config.js
 				imagesPath: "/modules/images",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
 			}
 		},
