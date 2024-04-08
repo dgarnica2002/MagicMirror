@@ -96,11 +96,12 @@ let config = {
 			}
 		},
 		{
-			module: "MMM-Logo",
+			module: "MMM-Image",
 			position: "upper_third",
 			config: {
 				maxWidth: "18%",       // Sizes the images. Retains aspect ratio.
-				ownImagePath: "/modules/HomeHealth.png",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
+				updateInterval: 10 * 1000, // set in config.js
+				imagesPath: "/modules/images",      // ex: 'modules/MMM-EyeCandy/pix/YOUR_PICTURE_NAME.jpg', or internet url to image
 			}
 		},
 		{

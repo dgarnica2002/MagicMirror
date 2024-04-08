@@ -476,9 +476,9 @@
     "desc": "Display Finnish electricity prices from Nord Pool."
   },
   {
-    "longname": "mmm-helium-wallet",
-    "id": "hayseedbyte/mmm-helium-wallet",
-    "url": "https://github.com/hayseedbyte/mmm-helium-wallet",
+    "longname": "MMM-Helium-Wallet",
+    "id": "hayseedbyte/MMM-Helium-Wallet",
+    "url": "https://github.com/hayseedbyte/MMM-Helium-Wallet",
     "author": "hayseedbyte",
     "desc": "Display your helium wallet balance and value (in your chosen currency)."
   },
@@ -488,6 +488,13 @@
     "url": "https://github.com/jalibu/MMM-Jast",
     "author": "Jalibu",
     "desc": "A simple but powerful vertical, horizontal or static stock ticker based on Yahoo's finance API. Supports international stocks, crypto currencies and index symbols. No API key required."
+  },
+  {
+    "longname": "MMM-MktIndex",
+    "id": "thess/MMM-MktIndex",
+    "url": "https://github.com/thess/MMM-MktIndex",
+    "author": "thess",
+    "desc": "Display market indicies using (free) Yahoo Finance API."
   },
   {
     "longname": "MMM-NFTcollections",
@@ -1201,7 +1208,7 @@
     "id": "Jilano5/MMM-Ilevia-Lille",
     "url": "https://github.com/Jilano5/MMM-Ilevia-Lille",
     "author": "Jilano5",
-    "desc": "time to the next buses, tramways from a list of stations / lines for Lille (Ilevia)."
+    "desc": "Time to the next buses, tramways from a list of stations / lines for Lille (Ilevia)."
   },
   {
     "longname": "MMM-imhdsk",
@@ -1270,7 +1277,7 @@
     "longname": "MMM-MercedesMe",
     "id": "ashishtank/MMM-MercedesMe",
     "url": "https://github.com/ashishtank/MMM-MercedesMe",
-    "author": "Ashish Tank",
+    "author": "ashishtank",
     "desc": "Displays EV/Fuel status and Range of Mercedes cars."
   },
   {
@@ -1307,6 +1314,13 @@
     "url": "https://github.com/wiesty/MMM-MVVWiesty",
     "author": "wiesty",
     "desc": "Display public transport 🚐 from Munich in Germany."
+  },
+  {
+    "longname": "MMM-MyBMW",
+    "id": "Jargendas/MMM-MyBMW",
+    "url": "https://github.com/Jargendas/MMM-MyBMW",
+    "author": "Jargendas",
+    "desc": "Display data from MyBMW for your car."
   },
   {
     "longname": "MMM-MyCommute",
@@ -1382,7 +1396,7 @@
     "longname": "MMM-NLDepartureTimes",
     "id": "Travelbacon/MMM-NLDepartureTimes",
     "url": "https://github.com/Travelbacon/MMM-NLDepartureTimes",
-    "author": "travelbacon",
+    "author": "Travelbacon",
     "desc": "Shows departure times of Dutch public transport. Where you can sort on destination and group stops in one stop. Good for hubs where multiple lines and authorities merge, so yo have one stop instead of multiple."
   },
   {
@@ -1410,7 +1424,7 @@
     "longname": "MMM-nyc-transit",
     "id": "elaniobro/MMM-nyc-transit",
     "url": "https://github.com/elaniobro/MMM-nyc-transit",
-    "author": "Elaniobro",
+    "author": "elaniobro",
     "desc": "Real-time MTA subway countdown clock for stations you choose. Configurable for marquee and or list view."
   },
   {
@@ -2849,6 +2863,13 @@
     "desc": "Display cicket scores for ongoing live cricket matches."
   },
   {
+    "longname": "MMM-euro2024",
+    "id": "0m4r/MMM-euro2024",
+    "url": "https://github.com/0m4r/MMM-euro2024",
+    "author": "0m4r",
+    "desc": "Display live scores of Euro 2024 football games."
+  },
+  {
     "longname": "MMM-Formula1",
     "id": "ianperrin/MMM-Formula1",
     "url": "https://github.com/ianperrin/MMM-Formula1",
@@ -2987,13 +3008,6 @@
     "url": "https://github.com/LukasKlose/MMM-Speedway",
     "author": "LukasKlose",
     "desc": "Display the tables of the Polish Speedway Leagues (PGE Ekstraliga, I. Liga Żużlowa , II. Liga Żużlowa)."
-  },
-  {
-    "longname": "MMM-euro2024",
-    "id": "0m4r/MMM-euro2024",
-    "url": "https://github.com/0m4r/MMM-euro2024",
-    "author": "0m4r",
-    "desc": "Display live scores of Euro 2024 football games."
   },
   {
     "longname": "MMM-mmpm",
@@ -4427,7 +4441,7 @@
     "longname": "octomirror-module",
     "id": "shbatm/octomirror-module",
     "url": "https://github.com/shbatm/octomirror-module",
-    "author": "DongerZonnie & shbatm",
+    "author": "shbatm",
     "desc": "View & Control an OctoPrint 3d Printer Server Instance."
   },
   {
@@ -5082,6 +5096,13 @@
     "desc": "Display your activity data from [Strava.com](https://www.strava.com)."
   },
   {
+    "longname": "MMM-StravaWeekInBike",
+    "id": "tylerstambaugh/MMM-StravaWeekInBike",
+    "url": "https://github.com/tylerstambaugh/MMM-StravaWeekInBike",
+    "author": "tylerstambaugh",
+    "desc": "Simple display of basic ride stats from [Strava](https://www.strava.com) for a rolling window of time."
+  },
+  {
     "longname": "MMM-SunnyPortal",
     "id": "linuxtuxie/MMM-SunnyPortal",
     "url": "https://github.com/linuxtuxie/MMM-SunnyPortal",
@@ -5694,7 +5715,7 @@
     "longname": "MMM-DailyPokemon",
     "id": "NolanKingdon/MMM-DailyPokemon",
     "url": "https://github.com/NolanKingdon/MMM-DailyPokemon",
-    "author": "Nolan Kingdon",
+    "author": "NolanKingdon",
     "desc": "Displays a random Pokemon, it's type, and stats daily."
   },
   {
@@ -5729,7 +5750,7 @@
     "longname": "MMM-Dreambox",
     "id": "Ax-LED/MMM-Dreambox",
     "url": "https://github.com/Ax-LED/MMM-Dreambox",
-    "author": "AxLED",
+    "author": "Ax-LED",
     "desc": "Connect a Dreambox or a Enigma2 Receiver (like VU or VU+) to MagicMirror² and stream stations via omxplayer."
   },
   {
@@ -6478,7 +6499,7 @@
     "longname": "MMM-PoemOfTheDay",
     "id": "Steven-Gassert/MMM-PoemOfTheDay",
     "url": "https://github.com/Steven-Gassert/MMM-PoemOfTheDay",
-    "author": "Steven Gassert",
+    "author": "Steven-Gassert",
     "desc": "Display a poem of the day, in the language(s) of your choice."
   },
   {
@@ -6842,7 +6863,7 @@
     "longname": "MMM-Unsplash",
     "id": "parnic/MMM-Unsplash",
     "url": "https://github.com/parnic/MMM-Unsplash",
-    "author": "Parnic",
+    "author": "parnic",
     "desc": "Display a random image from Unsplash categories."
   },
   {
@@ -7354,420 +7375,420 @@
     "id": "mykle1/MMM-Astronauts",
     "url": "https://github.com/mykle1/MMM-Astronauts",
     "author": "Mykle1",
-    "desc": "A rotation of astronauts that are currently in space and the spacecraft they are on.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "A rotation of astronauts that are currently in space and the spacecraft they are on. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-ATM",
     "id": "mykle1/MMM-ATM",
     "url": "https://github.com/mykle1/MMM-ATM",
     "author": "Mykle1",
-    "desc": "Another Trivia Module? Really?  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Another Trivia Module? Really? Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-awesome-alexa",
     "id": "dolanmiu/MMM-awesome-alexa",
     "url": "https://github.com/dolanmiu/MMM-awesome-alexa",
     "author": "dolanmiu",
-    "desc": "Easy, hands free Amazon Alexa integration; activated, simply by saying \"Alexa\".  Abandoned. No reactions to issues since years. The documentation currently available does not work any more ([#3398](https://github.com/MagicMirrorOrg/MagicMirror/issues/3398)). |"
+    "desc": "Easy, hands free Amazon Alexa integration; activated, simply by saying \"Alexa\". Abandoned. No reactions to issues since years. The documentation currently available does not work any more ([#3398](https://github.com/MagicMirrorOrg/MagicMirror/issues/3398)). |"
   },
   {
     "longname": "MMM-BMI",
     "id": "mykle1/MMM-BMI",
     "url": "https://github.com/mykle1/MMM-BMI",
     "author": "Mykle1",
-    "desc": "Body Mass Index Calculator. For those seeking separation or divorce.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Body Mass Index Calculator. For those seeking separation or divorce. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-BMW-CC",
     "id": "mykle1/MMM-BMW-CC",
     "url": "https://github.com/mykle1/MMM-BMW-CC",
     "author": "Mykle1",
-    "desc": "Weather designed for bottom bar position, now using the ClimaCell API.  Abandoned. The API endpoint changed. This module needs updated, but the author is inactive. |"
+    "desc": "Weather designed for bottom bar position, now using the ClimaCell API. Abandoned. The API endpoint changed. This module needs updated, but the author is inactive. |"
   },
   {
     "longname": "MMM-BMWConnected",
     "id": "jannekalliola/MMM-BMWConnected",
     "url": "https://github.com/jannekalliola/MMM-BMWConnected",
     "author": "jannekalliola",
-    "desc": "Displays information about your BMW from the BMW Connected Drive API. No longer works, per README.|"
+    "desc": "Displays information about your BMW from the BMW Connected Drive API. Abandoned. No longer works. Successor is MMM-MyBMW. Repo has been archived at 2024-04-05. |Apr 5, 2024 |"
   },
   {
     "longname": "MMM-BMW-DS",
     "id": "mykle1/MMM-BMW-DS",
     "url": "https://github.com/mykle1/MMM-BMW-DS",
     "author": "Mykle1",
-    "desc": "Weather designed for bottom bar position.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Weather designed for bottom bar position. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-BMW-OW",
     "id": "mykle1/MMM-BMW-OW",
     "url": "https://github.com/mykle1/MMM-BMW-OW",
     "author": "Mykle1",
-    "desc": "Weather designed for bottom bar position, now using the OpenWeather API.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Weather designed for bottom bar position, now using the OpenWeather API. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-CARDS",
     "id": "mykle1/MMM-CARDS",
     "url": "https://github.com/mykle1/MMM-CARDS",
     "author": "Mykle1",
-    "desc": "Play 5 Card Stud Poker against your mirror.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Play 5 Card Stud Poker against your mirror. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Census",
     "id": "mykle1/MMM-Census",
     "url": "https://github.com/mykle1/MMM-Census",
     "author": "Mykle1",
-    "desc": "World Population and demographics, by age and sex, or by individual country. 1950 - 2100.  Abandoned. The API endpoint changed. There is a PR to fix that, but the author is inactive. |"
+    "desc": "World Population and demographics, by age and sex, or by individual country. 1950 - 2100. Abandoned. The API endpoint changed. There is a PR to fix that, but the author is inactive. |"
   },
   {
     "longname": "MMM-Climacell-Hourly",
     "id": "mykle1/MMM-Climacell-Hourly",
     "url": "https://github.com/mykle1/MMM-Climacell-Hourly",
     "author": "Mykle1",
-    "desc": "Hourly weather designed for bottom bar position using the Climacell API.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Hourly weather designed for bottom bar position using the Climacell API. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Cocktails",
     "id": "mykle1/MMM-Cocktails",
     "url": "https://github.com/mykle1/MMM-Cocktails",
     "author": "Mykle1",
-    "desc": "How to make all kinds of mixed drinks - Instructions, ingredients and images.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "How to make all kinds of mixed drinks - Instructions, ingredients and images. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Coinbase",
     "id": "mlbonniec/MMM-Coinbase",
     "url": "https://github.com/mlbonniec/MMM-Coinbase",
     "author": "mlbonniec",
-    "desc": "Display your Bitcoin Coinbase balance.  Abandoned. Repo has been archived at 2023-07-26. |"
+    "desc": "Display your Bitcoin Coinbase balance. Abandoned. Repo has been archived at 2023-07-26. |"
   },
   {
     "longname": "MMM-CountEvents",
     "id": "MMRIZE/MMM-CountEvents",
     "url": "https://github.com/MMRIZE/MMM-CountEvents",
     "author": "MMRIZE",
-    "desc": "Countdown or countup for events.  Abandoned. Repo has been archived at 2020-06-10. |"
+    "desc": "Countdown or countup for events. Abandoned. Repo has been archived at 2020-06-10. |"
   },
   {
     "longname": "MMM-Covid19-Vaccination",
     "id": "fhinder/MMM-Covid19-Vaccination",
     "url": "https://github.com/fhinder/MMM-Covid19-Vaccination",
     "author": "fhinder",
-    "desc": "Keep track of the covid19 vaccination progress for Germany/German states.  Obsolete, no new data since 2022-04-27. |"
+    "desc": "Keep track of the covid19 vaccination progress for Germany/German states. Obsolete, no new data since 2022-04-27. |"
   },
   {
     "longname": "MMM-covid19uk-stats",
     "id": "blighter/MMM-covid19uk-stats",
     "url": "https://github.com/blighter/MMM-covid19uk-stats",
     "author": "blighter",
-    "desc": "This module displays a table of the 5 latest statistics for COVID-19 New Vaccinations as published by the UK Government.  Obsolete, no new data since 2022-05-20. |"
+    "desc": "This module displays a table of the 5 latest statistics for COVID-19 New Vaccinations as published by the UK Government. Obsolete, no new data since 2022-05-20. |"
   },
   {
     "longname": "MMM-CountDown",
     "id": "boazarad/MMM-CountDown",
     "url": "https://github.com/boazarad/MMM-CountDown",
     "author": "boazarad",
-    "desc": "Display a count down to a date/event.  Abandoned. No reactions to issues since years. Seems not to work anymore. Try MMM-CountDown by daterrell instead. |"
+    "desc": "Display a count down to a date/event. Abandoned. No reactions to issues since years. Seems not to work anymore. Try MMM-CountDown by daterrell instead. |"
   },
   {
     "longname": "MMM-DailyAlarm",
     "id": "eouia/MMM-DailyAlarm",
     "url": "https://github.com/eouia/MMM-DailyAlarm",
     "author": "eouia",
-    "desc": "Daily recurrent event alarms.  Abandoned. Repo has been archived at 2020-06-10. |"
+    "desc": "Daily recurrent event alarms. Abandoned. Repo has been archived at 2020-06-10. |"
   },
   {
     "longname": "MMM-DarkSky24Hours",
     "id": "thobach/MMM-DarkSky24Hours",
     "url": "https://github.com/thobach/MMM-DarkSky24Hours",
     "author": "thobach",
-    "desc": "Shows weather information for the next 24 hours using the Dark Sky API. The idea of this module is to give you confidence on what to wear when you go outside / to work, or what transport mode you should take (in case you are a good weather-only biker). The hourly forecast gives you a good decision basis based on the weather condition at the times you go to work and return home.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Shows weather information for the next 24 hours using the Dark Sky API. The idea of this module is to give you confidence on what to wear when you go outside / to work, or what transport mode you should take (in case you are a good weather-only biker). The hourly forecast gives you a good decision basis based on the weather condition at the times you go to work and return home. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-darksky-hourly",
     "id": "jacquesCedric/MMM-darksky-hourly",
     "url": "https://github.com/jacquesCedric/MMM-darksky-hourly",
     "author": "JacquesCedric",
-    "desc": "Hourly weather and precipitation pulled from DarkSky.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Hourly weather and precipitation pulled from DarkSky. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-DarkSkyRadar",
     "id": "vincep5/MMM-DarkSkyRadar",
     "url": "https://github.com/vincep5/MMM-DarkSkyRadar",
     "author": "vincep5",
-    "desc": "Display a radar map from DarkSky.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Display a radar map from DarkSky. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-DarkSkyForecast",
     "id": "jclarke0000/MMM-DarkSkyForecast",
     "url": "https://github.com/jclarke0000/MMM-DarkSkyForecast",
     "author": "jclarke0000",
-    "desc": "A weather module that displays current, hourly and daily forecast information using data from the Dark Sky API.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "A weather module that displays current, hourly and daily forecast information using data from the Dark Sky API. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-Discogs",
     "id": "mboskamp/MMM-Discogs",
     "url": "https://github.com/mboskamp/MMM-Discogs",
     "author": "mboskamp",
-    "desc": "Display a random release from your [discogs.com](https://www.discogs.com) music collection.  Abandoned. Repo has been archived at 2022-08-26. |"
+    "desc": "Display a random release from your [discogs.com](https://www.discogs.com) music collection. Abandoned. Repo has been archived at 2022-08-26. |"
   },
   {
     "longname": "MMM-Domoticz-ext",
     "id": "goedh452/MMM-Domoticz-ext",
     "url": "https://github.com/goedh452/MMM-Domoticz-ext",
     "author": "goedh452",
-    "desc": "A highly configurable module for displaying domoticz information and performing actions on Domoticz.  Abandoned. Repo has been archived at 2023-07-05. |"
+    "desc": "A highly configurable module for displaying domoticz information and performing actions on Domoticz. Abandoned. Repo has been archived at 2023-07-05. |"
   },
   {
     "longname": "MMM-Dribbble",
     "id": "marcobiedermann/MMM-dribbble",
     "url": "https://github.com/marcobiedermann/MMM-dribbble",
     "author": "marcobiedermann",
-    "desc": "Display the latest popular [dribbble](https://dribbble.com) shots.  Abandoned. Repo has been archived at 2023-10-24. |"
+    "desc": "Display the latest popular [dribbble](https://dribbble.com) shots. Abandoned. Repo has been archived at 2023-10-24. |"
   },
   {
     "longname": "MMM-DropboxWallpaper",
     "id": "Mong-ni/MMM-DropboxWallpaper",
     "url": "https://github.com/Mong-ni/MMM-DropboxWallpaper",
     "author": "Mong-ni",
-    "desc": "Show photos from `Dropbox` as wallpaper.  Successor is MMM-DropboxPictures. |"
+    "desc": "Show photos from `Dropbox` as wallpaper. Successor is MMM-DropboxPictures. |"
   },
   {
     "longname": "MMM-EARTH",
     "id": "mykle1/MMM-EARTH",
     "url": "https://github.com/mykle1/MMM-EARTH",
     "author": "Mykle1",
-    "desc": "Watch the sunlit side of Earth as it rotates.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Watch the sunlit side of Earth as it rotates. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-EARTH-Live",
     "id": "mykle1/MMM-EARTH-Live",
     "url": "https://github.com/mykle1/MMM-EARTH-Live",
     "author": "Mykle1",
-    "desc": "Live video of the Earth from the International Space Station.  Abandoned. The URL to fetch the video doesn't work anymore. The author is inactive. |"
+    "desc": "Live video of the Earth from the International Space Station. Abandoned. The URL to fetch the video doesn't work anymore. The author is inactive. |"
   },
   {
     "longname": "MMM-Earthquake",
     "id": "mykle1/MMM-Earthquake",
     "url": "https://github.com/mykle1/MMM-Earthquake",
     "author": "Mykle1",
-    "desc": "The probability of an earthquake in your city. You'll be surprised!  Deprecated. API is disabled. |"
+    "desc": "The probability of an earthquake in your city. You'll be surprised! Deprecated. API is disabled. |"
   },
   {
     "longname": "MMM-EOL",
     "id": "mykle1/MMM-EOL",
     "url": "https://github.com/mykle1/MMM-EOL",
     "author": "Mykle1",
-    "desc": "The Encyclopedia of Life.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "The Encyclopedia of Life. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Events",
     "id": "mykle1/MMM-Events",
     "url": "https://github.com/mykle1/MMM-Events",
     "author": "Mykle1",
-    "desc": "Upcoming events in your city. Concerts, Performances, Comedy Shows, Sporting Events, Theatre, Exhibits, Art Galleries, Museums, Festivals, Food & Drink and many more.  Deprecated. Eventful API discontinued. This module needs updated. |"
+    "desc": "Upcoming events in your city. Concerts, Performances, Comedy Shows, Sporting Events, Theatre, Exhibits, Art Galleries, Museums, Festivals, Food & Drink and many more. Deprecated. Eventful API discontinued. This module needs updated. |"
   },
   {
     "longname": "MMM-FAA-Delay",
     "id": "nigel-daniels/MMM-FAA-Delay",
     "url": "https://github.com/nigel-daniels/MMM-FAA-Delay",
     "author": "nigel-daniels",
-    "desc": "Display information published by the FAA on delays and weather conditions at some US airports.  Deprecated. API changed (look at issue 3). |"
+    "desc": "Display information published by the FAA on delays and weather conditions at some US airports. Deprecated. API changed (look at issue 3). |"
   },
   {
     "longname": "MMM-Facial-Recognition-OCV3",
     "id": "normyx/MMM-Facial-Recognition-OCV3",
     "url": "https://github.com/normyx/MMM-Facial-Recognition-OCV3",
     "author": "normyx",
-    "desc": "Modified version of MMM-Facial-Recognition that works with OpenCV 3.3+, where training tools is merge in one project and code simplifications.  Abandoned. No reactions to issues since years. Seems not to work anymore. |"
+    "desc": "Modified version of MMM-Facial-Recognition that works with OpenCV 3.3+, where training tools is merge in one project and code simplifications. Abandoned. No reactions to issues since years. Seems not to work anymore. |"
   },
   {
     "longname": "MMM-fbPageCounter",
     "id": "eouia/MMM-fbPageCounter",
     "url": "https://github.com/eouia/MMM-fbPageCounter",
     "author": "eouia",
-    "desc": "'Likes' counter of Facebook page.  Abandoned. Repo has been archived at 2022-06-20. |"
+    "desc": "'Likes' counter of Facebook page. Abandoned. Repo has been archived at 2022-06-20. |"
   },
   {
     "longname": "MMM-FinParcel",
     "id": "jesmak/MMM-FinParcel",
     "url": "https://github.com/jesmak/MMM-FinParcel",
     "author": "jesmak",
-    "desc": "Track packages from Finnish Posti and/or Matkahuolto.  Abandoned. Repo has been archived at 2024-01-22. |"
+    "desc": "Track packages from Finnish Posti and/or Matkahuolto. Abandoned. Repo has been archived at 2024-01-22. |"
   },
   {
     "longname": "MMM-FlightRadarTracker",
     "id": "jesmak/MMM-FlightRadarTracker",
     "url": "https://github.com/jesmak/MMM-FlightRadarTracker",
     "author": "jesmak",
-    "desc": "Track nearby planes based on Flightradar24 data.  Abandoned. Repo has been archived at 2024-01-22. |"
+    "desc": "Track nearby planes based on Flightradar24 data. Abandoned. Repo has been archived at 2024-01-22. |"
   },
   {
     "longname": "mmm-food2fork-recipes",
     "id": "spectroman/mmm-food2fork-recipes",
     "url": "https://github.com/spectroman/mmm-food2fork-recipes",
     "author": "Spectroman",
-    "desc": "Fetches one recipe type per day from food2fork API and display as a small menu.  Deprecated. food2fork API isn't reachable anymore. |"
+    "desc": "Fetches one recipe type per day from food2fork API and display as a small menu. Deprecated. food2fork API isn't reachable anymore. |"
   },
   {
     "longname": "MMM-forecast-io",
     "id": "dmcinnes/MMM-forecast-io",
     "url": "https://github.com/dmcinnes/MMM-forecast-io",
     "author": "dmcinnes",
-    "desc": "Display weather based on forecast API (DarkSky).  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Display weather based on forecast API (DarkSky). Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "MMM-GoogleAssistant",
     "id": "gauravsacc/MMM-GoogleAssistant",
     "url": "https://github.com/gauravsacc/MMM-GoogleAssistant",
     "author": "gauravsacc",
-    "desc": "Google Assistant integration using python library. Activated using hotword 'Ok Google'.  Abandoned. No reactions to issues since years. Seems not to work anymore. |"
+    "desc": "Google Assistant integration using python library. Activated using hotword 'Ok Google'. Abandoned. No reactions to issues since years. Seems not to work anymore. |"
   },
   {
     "longname": "MMM-Glance",
     "id": "eouia/MMM-Glance",
     "url": "https://github.com/eouia/MMM-Glance",
     "author": "eouia",
-    "desc": "Show specific module(s) and hide others for a some time by notification or command.  Archived. Repo has been archived at 2020-06-10. |"
+    "desc": "Show specific module(s) and hide others for a some time by notification or command. Archived. Repo has been archived at 2020-06-10. |"
   },
   {
     "longname": "MMM-GPSWeather",
     "id": "mochman/MMM-GPSWeather",
     "url": "https://github.com/mochman/MMM-GPSWeather",
     "author": "mochman",
-    "desc": "Display weather from a self-updated GPS Location.  Abandoned. Repo has been archived at 2022-02-27. |"
+    "desc": "Display weather from a self-updated GPS Location. Abandoned. Repo has been archived at 2022-02-27. |"
   },
   {
     "longname": "Hello-Lucy",
     "id": "mykle1/Hello-Lucy",
     "url": "https://github.com/mykle1/Hello-Lucy",
     "author": "Mykle1",
-    "desc": "Hide/Show individual modules and pages of modules with custom audio responses that you create.  Abandoned. No reactions to issues since years. The installation instructions do not work with up-to-date systems. |"
+    "desc": "Hide/Show individual modules and pages of modules with custom audio responses that you create. Abandoned. No reactions to issues since years. The installation instructions do not work with up-to-date systems. |"
   },
   {
     "longname": "MMM-HTTPRequestDisplay",
     "id": "Eunanibus/MMM-HTTPRequestDisplay",
     "url": "https://github.com/Eunanibus/MMM-HTTPRequestDisplay",
     "author": "Eunanibus",
-    "desc": "Display XML data from a HTTP response.  Abandoned. No reactions to issues since years. Seems not to work anymore. |"
+    "desc": "Display XML data from a HTTP response. Abandoned. No reactions to issues since years. Seems not to work anymore. |"
   },
   {
     "longname": "MMM-Instagram",
     "id": "kapsolas/MMM-Instagram",
     "url": "https://github.com/kapsolas/MMM-Instagram",
     "author": "kapsolas",
-    "desc": "Load the images from a users Instagram feed. The images are displayed on the mirror and animated. API key required.  Deprecated. Doesn't work anymore. Checkout issue 17. |"
+    "desc": "Load the images from a users Instagram feed. The images are displayed on the mirror and animated. API key required. Deprecated. Doesn't work anymore. Checkout issue 17. |"
   },
   {
     "longname": "MMM-ISS",
     "id": "mykle1/MMM-ISS",
     "url": "https://github.com/mykle1/MMM-ISS",
     "author": "Mykle1",
-    "desc": "Know when the International Space Station is visible from your location. Can be seen with the naked eye.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Know when the International Space Station is visible from your location. Can be seen with the naked eye. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-json-feed",
     "id": "amcolash/MMM-json-feed",
     "url": "https://github.com/amcolash/MMM-json-feed",
     "author": "amcolash",
-    "desc": "Display data from any JSON source.  Deprecated. Repo has been archived at 2020-08-03. |"
+    "desc": "Display data from any JSON source. Deprecated. Repo has been archived at 2020-08-03. |"
   },
   {
     "longname": "iFrame",
     "id": "desertblade/iFrame",
     "url": "https://github.com/desertblade/iFrame",
     "author": "desertblade",
-    "desc": "A simple way to add an iFrame of any web content.  Abandoned. Repo has been archived at 2019-03-08. |"
+    "desc": "A simple way to add an iFrame of any web content. Abandoned. Repo has been archived at 2019-03-08. |"
   },
   {
     "longname": "MMM-Koket-by-Sodexo",
     "id": "Alvinger/MMM-Koket-by-Sodexo",
     "url": "https://github.com/Alvinger/MMM-Koket-by-Sodexo",
     "author": "Alvinger",
-    "desc": "Replaced by MMM-Mashie-Skolmat! Show school lunch menus from Köket by Sodexo (based on MMM-Skolmaten with different source for menus).  Abandoned. Repo has been archived at 2020-12-10. |"
+    "desc": "Replaced by MMM-Mashie-Skolmat! Show school lunch menus from Köket by Sodexo (based on MMM-Skolmaten with different source for menus). Abandoned. Repo has been archived at 2020-12-10. |"
   },
   {
     "longname": "MMM-Launch",
     "id": "mykle1/MMM-Launch",
     "url": "https://github.com/mykle1/MMM-Launch",
     "author": "Mykle1",
-    "desc": "Ever wonder just how often mankind is launching things into space? Once a year? Twice? WRONG! On a daily basis. Often, several times a day! Don’t believe it? Neither did I.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Ever wonder just how often mankind is launching things into space? Once a year? Twice? WRONG! On a daily basis. Often, several times a day! Don’t believe it? Neither did I. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-LibrespotJava",
     "id": "l3d00m/MMM-LibrespotJava",
     "url": "https://github.com/l3d00m/MMM-LibrespotJava",
     "author": "l3d00m",
-    "desc": "Display the song you are currently streaming on your [Librespot Java](https://github.com/librespot-org/librespot-java) Spotify Speaker.  Abandoned. Repo has been archived at 2023-10-01. |"
+    "desc": "Display the song you are currently streaming on your [Librespot Java](https://github.com/librespot-org/librespot-java) Spotify Speaker. Abandoned. Repo has been archived at 2023-10-01. |"
   },
   {
     "longname": "MMM-LICE",
     "id": "mykle1/MMM-LICE",
     "url": "https://github.com/mykle1/MMM-LICE",
     "author": "Mykle1",
-    "desc": "Live International Currency Exchange.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Live International Currency Exchange. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Lottery",
     "id": "mykle1/MMM-Lottery",
     "url": "https://github.com/mykle1/MMM-Lottery",
     "author": "Mykle1",
-    "desc": "Display truly random lottery numbers, coinciding with many International lotteries.  Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
+    "desc": "Display truly random lottery numbers, coinciding with many International lotteries. Abandoned. Developer is no longer active. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-Lunartic",
     "id": "mykle1/MMM-Lunartic",
     "url": "https://github.com/mykle1/MMM-Lunartic",
     "author": "Mykle1",
-    "desc": "Up to the minute information about our Lunar partner, with a splash of EyeCandy, to boot!  Deprecated. Doesn't work anymore (API is down). |"
+    "desc": "Up to the minute information about our Lunar partner, with a splash of EyeCandy, to boot! Deprecated. Doesn't work anymore (API is down). |"
   },
   {
     "longname": "MMM-MARS",
     "id": "mykle1/MMM-MARS",
     "url": "https://github.com/mykle1/MMM-MARS",
     "author": "Mykle1",
-    "desc": "Mars Exploration Rover missions.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Mars Exploration Rover missions. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "mmm-moon-phases",
     "id": "spectroman/mmm-moon-phases",
     "url": "https://github.com/spectroman/mmm-moon-phases",
     "author": "spectroman",
-    "desc": "Show an image of the current moon phase.  Abandoned. Repo has been archived at 2023-10-16. |"
+    "desc": "Show an image of the current moon phase. Abandoned. Repo has been archived at 2023-10-16. |"
   },
   {
     "longname": "MMM-MPD",
     "id": "timjong93/MMM-MPD",
     "url": "https://github.com/timjong93/MMM-MPD",
     "author": "timjong93",
-    "desc": "Uses MPD to show the state and playlist of your music player.  Abandoned. No reactions to issues since years. Seems not to work anymore. Use MMM-Mopidy-MPD instead. |"
+    "desc": "Uses MPD to show the state and playlist of your music player. Abandoned. No reactions to issues since years. Seems not to work anymore. Use MMM-Mopidy-MPD instead. |"
   },
   {
     "longname": "motiondetector",
     "id": "alexyak/motiondetector",
     "url": "https://github.com/alexyak/motiondetector",
     "author": "alexyak",
-    "desc": "Camera based motion detector.  Abandoned. No reactions to issues since years. No installation instructions. |"
+    "desc": "Camera based motion detector. Abandoned. No reactions to issues since years. No installation instructions. |"
   },
   {
     "longname": "mm-music-player",
     "id": "masters1222/mm-music-player",
     "url": "https://github.com/masters1222/mm-music-player",
     "author": "masters1222",
-    "desc": "Simple player to play your music.  Abandoned. No reactions to issues since years. No installation instructions. It no longer seems to work. |"
+    "desc": "Simple player to play your music. Abandoned. No reactions to issues since years. No installation instructions. It no longer seems to work. |"
   },
   {
     "longname": "MMM-nagios",
     "id": "qistoph/MMM-nagios",
     "url": "https://github.com/qistoph/MMM-nagios",
     "author": "qistoph",
-    "desc": "A MagicMirror² Module for Nagios.  Abandoned. Repo has been archived at 2023-03-09. |"
+    "desc": "A MagicMirror² Module for Nagios. Abandoned. Repo has been archived at 2023-03-09. |"
   },
   {
     "longname": "MMM-NASA",
     "id": "mykle1/MMM-NASA",
     "url": "https://github.com/mykle1/MMM-NASA",
     "author": "Mykle1",
-    "desc": "Stunning imagery and information about your universe. Choose from a host of categories. Looks amazing on your mirror!  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Stunning imagery and information about your universe. Choose from a host of categories. Looks amazing on your mirror! Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-nasaastropic",
@@ -7781,77 +7802,77 @@
     "id": "mykle1/MMM-NEO",
     "url": "https://github.com/mykle1/MMM-NEO",
     "author": "Mykle1",
-    "desc": "Near Earth Objects passing by our planet this week. Be afraid. Be VERY afraid!  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Near Earth Objects passing by our planet this week. Be afraid. Be VERY afraid! Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-NOAA3",
     "id": "cowboysdude/MMM-NOAA3",
     "url": "https://github.com/cowboysdude/MMM-NOAA3",
     "author": "cowboysdude",
-    "desc": "Different providers for users to choose from. Shows current plus 3 day forecast. Mouseover shows forecast, with Air, UV, Humidity, Sunrise and Set.  Abandoned. No reactions to issues and PRs since years. |"
+    "desc": "Different providers for users to choose from. Shows current plus 3 day forecast. Mouseover shows forecast, with Air, UV, Humidity, Sunrise and Set. Abandoned. No reactions to issues and PRs since years. |"
   },
   {
     "longname": "MMM-NowPlayingOnAIMP",
     "id": "jesmak/MMM-NowPlayingOnAIMP",
     "url": "https://github.com/jesmak/MMM-NowPlayingOnAIMP",
     "author": "jesmak",
-    "desc": "Display the song you are currently listening to on AIMP.  Abandoned. Repo has been archived at 2024-01-22. |"
+    "desc": "Display the song you are currently listening to on AIMP. Abandoned. Repo has been archived at 2024-01-22. |"
   },
   {
     "longname": "MMM-NowPlayingOnSpotify",
     "id": "raywo/MMM-NowPlayingOnSpotify",
     "url": "https://github.com/raywo/MMM-NowPlayingOnSpotify",
     "author": "raywo",
-    "desc": "Display the song you are currently listening to on Spotify.  Abandoned. No reactions to issues since years. Depends on deprecated modules. MMM-OnSpotify is an alternative. |"
+    "desc": "Display the song you are currently listening to on Spotify. Abandoned. No reactions to issues since years. Depends on deprecated modules. MMM-OnSpotify is an alternative. |"
   },
   {
     "longname": "MMM-NiceHash",
     "id": "mlbonniec/MMM-NiceHash",
     "url": "https://github.com/mlbonniec/MMM-NiceHash",
     "author": "mlbonniec",
-    "desc": "Display your NiceHash projected income and rigs highest temperature.  Abandoned. Repo has been archived at 2023-07-23. |"
+    "desc": "Display your NiceHash projected income and rigs highest temperature. Abandoned. Repo has been archived at 2023-07-23. |"
   },
   {
     "longname": "MMM-NJTransit",
     "id": "dimitrystd/MMM-NJTransit",
     "url": "https://github.com/dimitrystd/MMM-NJTransit",
     "author": "dimitrystd",
-    "desc": "Real-time bus tracking for NJ Transit.  Deprecated. Old API doesn't work anymore. There is a new API, but it's not clear if keys are available. 2023-12-01. |"
+    "desc": "Real-time bus tracking for NJ Transit. Deprecated. Old API doesn't work anymore. There is a new API, but it's not clear if keys are available. 2023-12-01. |"
   },
   {
     "longname": "MMM-OClock",
     "id": "eouia/MMM-OClock",
     "url": "https://github.com/eouia/MMM-OClock",
     "author": "eouia",
-    "desc": "O-clock inspired by PolarClock Screensaver.  Abandoned. Repo has been archived at 2020-06-10. |"
+    "desc": "O-clock inspired by PolarClock Screensaver. Abandoned. Repo has been archived at 2020-06-10. |"
   },
   {
     "longname": "MagicMirror-Olympia-Module",
     "id": "GHLasse/MagicMirror-Olympia-Module",
     "url": "https://github.com/GHLasse/MagicMirror-Olympia-Module",
     "author": "ghlasse",
-    "desc": "Display the medals for the summer olympics 2016.  Outdated: Only works for Rio 2016 Summer Olympics. |"
+    "desc": "Display the medals for the summer olympics 2016. Outdated: Only works for Rio 2016 Summer Olympics. |"
   },
   {
     "longname": "MMM-OpenWeatherForecast",
     "id": "jclarke0000/MMM-OpenWeatherForecast",
     "url": "https://github.com/jclarke0000/MMM-OpenWeatherForecast",
     "author": "jclarke0000",
-    "desc": "Displays current, hourly and daily forecast information using data from the OpenWeather One Call API.  Abandoned. No reactions to issues since years. Only works with API version 2.5! |"
+    "desc": "Displays current, hourly and daily forecast information using data from the OpenWeather One Call API. Abandoned. No reactions to issues since years. Only works with API version 2.5! |"
   },
   {
     "longname": "MMM-PilotWX",
     "id": "mykle1/MMM-PilotWX",
     "url": "https://github.com/mykle1/MMM-PilotWX",
     "author": "Mykle1",
-    "desc": "Static or Rotating Weather for Pilots. International ICAO's.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Static or Rotating Weather for Pilots. International ICAO's. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-PLOW",
     "id": "mykle1/MMM-PLOW",
     "url": "https://github.com/mykle1/MMM-PLOW",
     "author": "Mykle1",
-    "desc": "Pig Latin On Weather! Multiple views in a single module. Driven by Darksky API.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Pig Latin On Weather! Multiple views in a single module. Driven by Darksky API. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "publika",
@@ -7865,42 +7886,42 @@
     "id": "mboskamp/MMM-Pull",
     "url": "https://github.com/mboskamp/MMM-Pull",
     "author": "mboskamp",
-    "desc": "This module enables the user to pull updates for modules and/or MagicMirror² itself via Telegram commands.  Abandoned. Repo has been archived at 2022-08-26. |"
+    "desc": "This module enables the user to pull updates for modules and/or MagicMirror² itself via Telegram commands. Abandoned. Repo has been archived at 2022-08-26. |"
   },
   {
     "longname": "MMM-PIR",
     "id": "mboskamp/MMM-PIR",
     "url": "https://github.com/mboskamp/MMM-PIR",
     "author": "mboskamp",
-    "desc": "Another PIR monitoring module that allows you to run custom scripts and integrates MMM-TelegramBot commands.  Abandoned. Repo has been archived at 2022-08-26. |"
+    "desc": "Another PIR monitoring module that allows you to run custom scripts and integrates MMM-TelegramBot commands. Abandoned. Repo has been archived at 2022-08-26. |"
   },
   {
     "longname": "MMM-PIR-Sensor-Lite",
     "id": "grenagit/MMM-PIR-Sensor-Lite",
     "url": "https://github.com/grenagit/MMM-PIR-Sensor-Lite",
     "author": "Grena",
-    "desc": "Managing monitor with PIR motion sensor (automatic standby when presence isn't detected).  Abandoned. Repo has been archived at 2024-01-10. There seems to be [an active fork](https://github.com/hervidero/MMM-PIR-Sensor-Lite), but the clone command has not yet been adapted. |"
+    "desc": "Managing monitor with PIR motion sensor (automatic standby when presence isn't detected). Abandoned. Repo has been archived at 2024-01-10. There seems to be [an active fork](https://github.com/hervidero/MMM-PIR-Sensor-Lite), but the clone command has not yet been adapted. |"
   },
   {
     "longname": "MMM-Ring",
     "id": "DustinBryant/MMM-Ring",
     "url": "https://github.com/DustinBryant/MMM-Ring",
     "author": "DustinBryant",
-    "desc": "Displays a video stream of your Ring doorbell when someone rings your doorbell.  Abandoned. Repo has been archived at 2022-08-25. |"
+    "desc": "Displays a video stream of your Ring doorbell when someone rings your doorbell. Abandoned. Repo has been archived at 2022-08-25. |"
   },
   {
     "longname": "MMM-RKI-Covid19",
     "id": "fhinder/MMM-RKI-Covid19",
     "url": "https://github.com/fhinder/MMM-RKI-Covid19",
     "author": "fhinder",
-    "desc": "RKI-Covid19 data for German counties.  Obsolete, no new data. |"
+    "desc": "RKI-Covid19 data for German counties. Obsolete, no new data. |"
   },
   {
     "longname": "MMM-Ruter",
     "id": "CatoAntonsen/MMM-Ruter",
     "url": "https://github.com/CatoAntonsen/MMM-Ruter",
     "author": "CatoAntonsen",
-    "desc": "Display public transport information for Oslo and Akershus in Norway.  Abandoned. Repo has been archived at 2019-03-14. See [MMM-Entur-tavle](https://github.com/Arve/MMM-Entur-tavle) instead. |"
+    "desc": "Display public transport information for Oslo and Akershus in Norway. Abandoned. Repo has been archived at 2019-03-14. See [MMM-Entur-tavle](https://github.com/Arve/MMM-Entur-tavle) instead. |"
   },
   {
     "longname": "MMM-Scenes",
@@ -7914,97 +7935,97 @@
     "id": "fewieden/MMM-ScottishPremierLeague",
     "url": "https://github.com/fewieden/MMM-ScottishPremierLeague",
     "author": "fewieden",
-    "desc": "Display scottish premiere league standings.  Abandoned. Repo has been archived at 2020-05-09. |"
+    "desc": "Display scottish premiere league standings. Abandoned. Repo has been archived at 2020-05-09. |"
   },
   {
     "longname": "MMM-SFMuniBusTimes",
     "id": "vikramraja1995/MMM-SFMuniBusTimes",
     "url": "https://github.com/vikramraja1995/MMM-SFMuniBusTimes",
     "author": "vikramraja1995",
-    "desc": "Displays the ETA of San Francisco's MUNI Bus and Rail systems based on the given stops and routes.  Abandoned. The API used no longer works, there is a new API but the developer no longer seems to be active. |"
+    "desc": "Displays the ETA of San Francisco's MUNI Bus and Rail systems based on the given stops and routes. Abandoned. The API used no longer works, there is a new API but the developer no longer seems to be active. |"
   },
   {
     "longname": "MMM-Simple-Swiper",
     "id": "Bee-Mar/MMM-Simple-Swiper",
     "url": "https://github.com/Bee-Mar/MMM-Simple-Swiper",
     "author": "Bee-Mar",
-    "desc": "Simple, multi-threaded interface for HC-SR04 ultra sonic sensors to be used with MMM-pages.  Abandoned. Repo has been archived at 2022-05-22. |"
+    "desc": "Simple, multi-threaded interface for HC-SR04 ultra sonic sensors to be used with MMM-pages. Abandoned. Repo has been archived at 2022-05-22. |"
   },
   {
     "longname": "MMM-SORT",
     "id": "mykle1/MMM-SORT",
     "url": "https://github.com/mykle1/MMM-SORT",
     "author": "Mykle1",
-    "desc": "Static Or Rotating Tides module. Replaces/combines MMM-SimpleTides and MMM-StaticTides.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
+    "desc": "Static Or Rotating Tides module. Replaces/combines MMM-SimpleTides and MMM-StaticTides. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. |"
   },
   {
     "longname": "MMM-stib",
     "id": "danito/MMM-stib",
     "url": "https://github.com/danito/MMM-stib",
     "author": "danito",
-    "desc": "Display the next transports for any given STIB (Brussel/Belgium) station.  Deprecated. API no longer works. Depends on deprecated module. Not recommended installation instructions (globally). Use module **MMM-stib2** instead. |"
+    "desc": "Display the next transports for any given STIB (Brussel/Belgium) station. Deprecated. API no longer works. Depends on deprecated module. Not recommended installation instructions (globally). Use module **MMM-stib2** instead. |"
   },
   {
     "longname": "MMM-SunRiseSet",
     "id": "mykle1/MMM-SunRiseSet",
     "url": "https://github.com/mykle1/MMM-SunRiseSet",
     "author": "Mykle1",
-    "desc": "More information than you ever wanted to know about the rising and setting of the sun.  Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. Also, source has altered API. |"
+    "desc": "More information than you ever wanted to know about the rising and setting of the sun. Abandoned. No reactions to issues since years. Missing instructions to install dependency 'request'. Also, source has altered API. |"
   },
   {
     "longname": "MMM-SystemStats",
     "id": "BenRoe/MMM-SystemStats",
     "url": "https://github.com/BenRoe/MMM-SystemStats",
     "author": "BenRoe",
-    "desc": "Shows Raspberry Pi system stats like CPU temperature, free Ram, System load, and Uptime.  Abandoned. Repo has been archived at 2022-09-05. |"
+    "desc": "Shows Raspberry Pi system stats like CPU temperature, free Ram, System load, and Uptime. Abandoned. Repo has been archived at 2022-09-05. |"
   },
   {
     "longname": "MMM-VolvoOnCall",
     "id": "eouia/MMM-VolvoOnCall",
     "url": "https://github.com/eouia/MMM-VolvoOnCall",
     "author": "eouia",
-    "desc": "Display Volvo car status and trip information by VolvoOnCall.  Abandoned. Repo has been archived at 2022-03-28. |"
+    "desc": "Display Volvo car status and trip information by VolvoOnCall. Abandoned. Repo has been archived at 2022-03-28. |"
   },
   {
     "longname": "MMM-VUB-Resto",
     "id": "OscarVsp/MMM-VUB-Resto",
     "url": "https://github.com/OscarVsp/MMM-VUB-Resto",
     "author": "Oscar Vsp",
-    "desc": "Get the menu of day of the VUB restaurant (Vrije Universiteit Brussel). Based on MMM-json.  Abandoned. Repo has been archived at 2023-09-20. |"
+    "desc": "Get the menu of day of the VUB restaurant (Vrije Universiteit Brussel). Based on MMM-json. Abandoned. Repo has been archived at 2023-09-20. |"
   },
   {
     "longname": "MMM-WeatherOrNot",
     "id": "mykle1/MMM-WeatherOrNot",
     "url": "https://github.com/mykle1/MMM-WeatherOrNot",
     "author": "Mykle1",
-    "desc": "Squeeze or stretch it. Watch it respond by reformatting itself. Fully customizable. Also driven by Darksky API.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Squeeze or stretch it. Watch it respond by reformatting itself. Fully customizable. Also driven by Darksky API. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   },
   {
     "longname": "wuforecast",
     "id": "MattLugar/wuforecast",
     "url": "https://github.com/MattLugar/wuforecast",
     "author": "MattLugar",
-    "desc": "Weather Underground Forecast Module Retrieves forecast from Weather Underground. Also adds a percentage probability of precipitation to forecast display.  Deprecated. Wunderground API isn't working anymore. |"
+    "desc": "Weather Underground Forecast Module Retrieves forecast from Weather Underground. Also adds a percentage probability of precipitation to forecast display. Deprecated. Wunderground API isn't working anymore. |"
   },
   {
     "longname": "MMM-WunderGround",
     "id": "RedNax67/MMM-WunderGround",
     "url": "https://github.com/RedNax67/MMM-WunderGround",
     "author": "RedNax67",
-    "desc": "Display weather based on wunderground API.  Deprecated. Wunderground API isn't working anymore. Check out MMM-MyWeather which is a fork with another API. |"
+    "desc": "Display weather based on wunderground API. Deprecated. Wunderground API isn't working anymore. Check out MMM-MyWeather which is a fork with another API. |"
   },
   {
     "longname": "MMM-wundergroundBar",
     "id": "Fifteen15Studios/MMM-wundergroundBar",
     "url": "https://github.com/Fifteen15Studios/MMM-wundergroundBar",
     "author": "Fifteen15Studios",
-    "desc": "Minimalist Weather for the bottom_bar or thirds position of your mirror.  Deprecated. Wunderground API isn't working anymore. |"
+    "desc": "Minimalist Weather for the bottom_bar or thirds position of your mirror. Deprecated. Wunderground API isn't working anymore. |"
   },
   {
     "longname": "MMM-WWI",
     "id": "mykle1/MMM-WWI",
     "url": "https://github.com/mykle1/MMM-WWI",
     "author": "Mykle1",
-    "desc": "Nope! Not World War I. It's **Weather Without Icons**. Up to the minute weather. Full weather information, yet a small footprint.  Deprecated. DarkSky API no longer works since 2023-03-31. |"
+    "desc": "Nope! Not World War I. It's **Weather Without Icons**. Up to the minute weather. Full weather information, yet a small footprint. Deprecated. DarkSky API no longer works since 2023-03-31. |"
   }
 ]
