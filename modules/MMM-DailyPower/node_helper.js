@@ -20,6 +20,7 @@ module.exports = NodeHelper.create({
             });
             response.on('end', () => {
                 console.log('DailyPower', 'new verse received');
+                console.log(JSON.parse(data).votd);
                 this.sendSocketNotification('DAILY_POWER_ON_VERSE_RECEIVED', JSON.parse(data).votd);
             });
         }).on('error', (error) => {

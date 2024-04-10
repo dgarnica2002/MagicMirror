@@ -2338,6 +2338,13 @@
     "desc": "Display current weather based on the Meteoblue.com API."
   },
   {
+    "longname": "MMM-MeteoFrance",
+    "id": "bugsounet/MMM-MeteoFrance",
+    "url": "https://github.com/bugsounet/MMM-MeteoFrance",
+    "author": "bugsounet",
+    "desc": "[FR] Affiche les informations de prévisions actuelles, horaires et quotidiennes à l'aide des données de l'API MétéoFrance.<br />[EN] Displays current, hourly and daily forecast information using data from MeteoFrance API. |"
+  },
+  {
     "longname": "MMM-Moon",
     "id": "EnderFlop/MMM-Moon",
     "url": "https://github.com/EnderFlop/MMM-Moon",
@@ -3011,9 +3018,9 @@
   },
   {
     "longname": "MMM-mmpm",
-    "id": "bee-mar/MMM-mmpm",
-    "url": "https://github.com/bee-mar/MMM-mmpm",
-    "author": "bee-mar",
+    "id": "Bee-Mar/MMM-mmpm",
+    "url": "https://github.com/Bee-Mar/MMM-mmpm",
+    "author": "Bee-Mar",
     "desc": "Companion module for MMPM to enable hiding/showing of MagicMirror² modules."
   },
   {
@@ -3035,7 +3042,7 @@
     "id": "ryanzor/MMM-AirbarHelper",
     "url": "https://github.com/ryanzor/MMM-AirbarHelper",
     "author": "Ryan Cooke",
-    "desc": "Add touch input to your mirror using a ~$50 usb plug and play sensor."
+    "desc": "Add touch input to your mirror using a ~$50 USB plug and play sensor."
   },
   {
     "longname": "MMM-Airtable",

@@ -45,6 +45,48 @@ Module.register('MMM-DailyPower', {
         return wrapper;
     },
 
+    removeElements: function (str) {
+        i = 0
+        stack = []
+        while (i < str.length - 1) {
+            if (str[i] == '<') {
+                tag = this.getTag(str, i)
+                if (stack && str[i + 1] == '/') {
+                    if (stack[stack.length - 1][0] == tag[0]) {
+                        start = stack[stack.length - 1][1]
+                        end = tag[2]
+                        str = str.substring(0, start - 1) + str.substring(end + 1)
+                        i = 0
+                        stack.pop();
+                    }
+                }
+                else {
+                    close = this.getClose(tag)
+                    tag[0] = close
+                    stack.push(tag)
+                    i = tag[2] + 1
+                }
+            }
+            else {
+                i += 1
+            }
+        }
+        return str
+    },
+
+    getTag: function(str, start) {
+        j = start
+        while(str[j] !== '>' && j < str.length) {
+          j += 1
+        }
+        return [str.substring(start, j+1), start, j]
+    },
+      
+    getClose: function(tag) {
+        str = tag[0]
+        return str[0] + '/' + str.substring(1)
+    },
+
     truncateAtLastSpace: function(str, length, ending = '...') {
         if (str.length <= length) return str;
         let trimmedString = str.slice(0, length + 1);
@@ -75,7 +117,7 @@ Module.register('MMM-DailyPower', {
         content.classList.add('daily-power-p', 'daily-power-verse-content');
         content.style.color = this.config.verseColor;
         content.style.fontSize = this.config.verseSize;
-        content.innerHTML = this.truncateAtLastSpace(this.verse.content, 210)
+        content.innerHTML = this.truncateAtLastSpace(this.removeElements(this.verse.content), 210)
         return content;
     },
 
@@ -94,5 +136,4 @@ Module.register('MMM-DailyPower', {
             this.updateDom();
         }
     }
-
 });
