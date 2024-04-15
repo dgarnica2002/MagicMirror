@@ -2342,7 +2342,7 @@
     "id": "bugsounet/MMM-MeteoFrance",
     "url": "https://github.com/bugsounet/MMM-MeteoFrance",
     "author": "bugsounet",
-    "desc": "[FR] Affiche les informations de prévisions actuelles, horaires et quotidiennes à l'aide des données de l'API MétéoFrance.<br />[EN] Displays current, hourly and daily forecast information using data from MeteoFrance API. |"
+    "desc": "[FR] Affiche les informations de prévisions actuelles, horaires et quotidiennes à l'aide des données de l'API MétéoFrance.<br />[EN] Displays current, hourly and daily forecast information using data from MeteoFrance API."
   },
   {
     "longname": "MMM-Moon",
